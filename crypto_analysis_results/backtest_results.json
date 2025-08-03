@@ -1,0 +1,3278 @@
+[
+  {
+    "date": "2024-08-05",
+    "portfolio_value": 0.9168267735901131,
+    "portfolio_return": -0.08317322640988692,
+    "btc_value": 0.9294055702940128,
+    "btc_return": -0.07059442970598717,
+    "equal_weight_value": 0.9170101235574485,
+    "equal_weight_return": -0.0829898764425515
+  },
+  {
+    "date": "2024-08-06",
+    "portfolio_value": 0.9696419803697066,
+    "portfolio_return": 0.05760652753712614,
+    "btc_value": 0.9642523749098878,
+    "btc_return": 0.037493647261928276,
+    "equal_weight_value": 0.9694850029633596,
+    "equal_weight_return": 0.05722388233004453
+  },
+  {
+    "date": "2024-08-07",
+    "portfolio_value": 0.941837753657889,
+    "portfolio_return": -0.02867473487607906,
+    "btc_value": 0.9483031910236516,
+    "btc_return": -0.016540466273393117,
+    "equal_weight_value": 0.9404497502762534,
+    "equal_weight_return": -0.02994915093926785
+  },
+  {
+    "date": "2024-08-08",
+    "portfolio_value": 1.0542611897548673,
+    "portfolio_return": 0.11936603269549391,
+    "btc_value": 1.061453260627815,
+    "btc_return": 0.11931845286951215,
+    "equal_weight_value": 1.0530659698332345,
+    "equal_weight_return": 0.11974719491807051
+  },
+  {
+    "date": "2024-08-09",
+    "portfolio_value": 1.0365379074958618,
+    "portfolio_return": -0.01681109238511037,
+    "btc_value": 1.0470103751744402,
+    "btc_return": -0.013606708829395298,
+    "equal_weight_value": 1.0355839612369568,
+    "equal_weight_return": -0.01660105738584081
+  },
+  {
+    "date": "2024-08-10",
+    "portfolio_value": 1.0529253642948984,
+    "portfolio_return": 0.015809799796542182,
+    "btc_value": 1.0482478207523784,
+    "btc_return": 0.001181884733216787,
+    "equal_weight_value": 1.0512499623502214,
+    "equal_weight_return": 0.015127697704541853
+  },
+  {
+    "date": "2024-08-11",
+    "portfolio_value": 0.9919728897054872,
+    "portfolio_return": -0.05788869435226157,
+    "btc_value": 1.0101333272785535,
+    "btc_return": -0.036360193381053896,
+    "equal_weight_value": 0.9906422284481073,
+    "equal_weight_return": -0.05765301885634958
+  },
+  {
+    "date": "2024-08-12",
+    "portfolio_value": 1.0442603184757124,
+    "portfolio_return": 0.052710542105388586,
+    "btc_value": 1.021071321003256,
+    "btc_return": 0.010828267347807508,
+    "equal_weight_value": 1.0431838453826996,
+    "equal_weight_return": 0.053037933802702275
+  },
+  {
+    "date": "2024-08-13",
+    "portfolio_value": 1.0556798993886425,
+    "portfolio_return": 0.010935569140076918,
+    "btc_value": 1.0425527157148533,
+    "btc_return": 0.021038094273856167,
+    "equal_weight_value": 1.056039945176942,
+    "equal_weight_return": 0.01232390613710669
+  },
+  {
+    "date": "2024-08-14",
+    "portfolio_value": 1.038147737466478,
+    "portfolio_return": -0.016607460208646244,
+    "btc_value": 1.0096697582164817,
+    "btc_return": -0.031540810361636695,
+    "equal_weight_value": 1.0378277218759746,
+    "equal_weight_return": -0.017245771226879102
+  },
+  {
+    "date": "2024-08-15",
+    "portfolio_value": 1.0077334319270652,
+    "portfolio_return": -0.029296702619259797,
+    "btc_value": 0.9899722873426376,
+    "btc_return": -0.019508825250583395,
+    "equal_weight_value": 1.0079106114128253,
+    "equal_weight_return": -0.028826663455348
+  },
+  {
+    "date": "2024-08-16",
+    "portfolio_value": 1.0076337204978256,
+    "portfolio_return": -9.894623526465895e-05,
+    "btc_value": 1.0130346331672222,
+    "btc_return": 0.02329595092655601,
+    "equal_weight_value": 1.0082574802092807,
+    "equal_weight_return": 0.00034414638810990883
+  },
+  {
+    "date": "2024-08-17",
+    "portfolio_value": 1.02491808112592,
+    "portfolio_return": 0.01715341624291307,
+    "btc_value": 1.0234287287938653,
+    "btc_return": 0.010260355654521103,
+    "equal_weight_value": 1.0252297904207819,
+    "equal_weight_return": 0.016833309491518192
+  },
+  {
+    "date": "2024-08-18",
+    "portfolio_value": 1.0208145042254133,
+    "portfolio_return": -0.004003809646912311,
+    "btc_value": 1.0052176031019735,
+    "btc_return": -0.017794229514500826,
+    "equal_weight_value": 1.0217498066522976,
+    "equal_weight_return": -0.0033943451516913413
+  },
+  {
+    "date": "2024-08-19",
+    "portfolio_value": 1.0452500708207322,
+    "portfolio_return": 0.023937323082865513,
+    "btc_value": 1.022851976636119,
+    "btc_return": 0.017542841947582488,
+    "equal_weight_value": 1.045807553330362,
+    "equal_weight_return": 0.02354563369763486
+  },
+  {
+    "date": "2024-08-20",
+    "portfolio_value": 1.051793460003957,
+    "portfolio_return": 0.006260118383045818,
+    "btc_value": 1.0153375135393985,
+    "btc_return": -0.007346579239582152,
+    "equal_weight_value": 1.051864531407577,
+    "equal_weight_return": 0.005791675588808595
+  },
+  {
+    "date": "2024-08-21",
+    "portfolio_value": 1.0927752750575888,
+    "portfolio_return": 0.038963747743285856,
+    "btc_value": 1.052203724755912,
+    "btc_return": 0.03630931658183334,
+    "equal_weight_value": 1.0943103312259854,
+    "equal_weight_return": 0.040352914801308586
+  },
+  {
+    "date": "2024-08-22",
+    "portfolio_value": 1.1122321600213207,
+    "portfolio_return": 0.01780501939221359,
+    "btc_value": 1.0387265078422292,
+    "btc_return": -0.012808562255193667,
+    "equal_weight_value": 1.1135631163850737,
+    "equal_weight_return": 0.017593533214219893
+  },
+  {
+    "date": "2024-08-23",
+    "portfolio_value": 1.1956342060335907,
+    "portfolio_return": 0.07498618454862084,
+    "btc_value": 1.1023792703612172,
+    "btc_return": 0.06127961695250783,
+    "equal_weight_value": 1.1979150496525144,
+    "equal_weight_return": 0.07574957541811374
+  },
+  {
+    "date": "2024-08-24",
+    "portfolio_value": 1.213115419092584,
+    "portfolio_return": 0.014620870639847,
+    "btc_value": 1.1039784546172764,
+    "btc_return": 0.001450666117420063,
+    "equal_weight_value": 1.2152457309201767,
+    "equal_weight_return": 0.014467370847949268
+  },
+  {
+    "date": "2024-08-25",
+    "portfolio_value": 1.1964060169510675,
+    "portfolio_return": -0.013773959079685233,
+    "btc_value": 1.1054207650386014,
+    "btc_return": 0.0013064660956858543,
+    "equal_weight_value": 1.1983468596030673,
+    "equal_weight_return": -0.013905723663241087
+  },
+  {
+    "date": "2024-08-26",
+    "portfolio_value": 1.1373749668921624,
+    "portfolio_return": -0.04934031526299101,
+    "btc_value": 1.0810924198459844,
+    "btc_return": -0.022008221631124703,
+    "equal_weight_value": 1.1396230709312718,
+    "equal_weight_return": -0.04900399930221102
+  },
+  {
+    "date": "2024-08-27",
+    "portfolio_value": 1.0767260158530734,
+    "portfolio_return": -0.053323620445779735,
+    "btc_value": 1.0224618561786871,
+    "btc_return": -0.05423270258027524,
+    "equal_weight_value": 1.0788815293153304,
+    "equal_weight_return": -0.05329967702944524
+  },
+  {
+    "date": "2024-08-28",
+    "portfolio_value": 1.0611225529284178,
+    "portfolio_return": -0.014491581604716051,
+    "btc_value": 1.0156118707394,
+    "btc_return": -0.006699502184744688,
+    "equal_weight_value": 1.0626117471315006,
+    "equal_weight_return": -0.015080230536669606
+  },
+  {
+    "date": "2024-08-29",
+    "portfolio_value": 1.0609639379802884,
+    "portfolio_return": -0.00014947844402285753,
+    "btc_value": 1.0212254426654512,
+    "btc_return": 0.005527280733696349,
+    "equal_weight_value": 1.061863900318442,
+    "equal_weight_return": -0.0007037818046688715
+  },
+  {
+    "date": "2024-08-30",
+    "portfolio_value": 1.0615189648393013,
+    "portfolio_return": 0.0005231345186618832,
+    "btc_value": 1.017083422993954,
+    "btc_return": -0.004055930745993086,
+    "equal_weight_value": 1.0623759560535404,
+    "equal_weight_return": 0.0004822235080643109
+  },
+  {
+    "date": "2024-08-31",
+    "portfolio_value": 1.0444007998426172,
+    "portfolio_return": -0.01612610378494333,
+    "btc_value": 1.0146773361515578,
+    "btc_return": -0.0023656730490343447,
+    "equal_weight_value": 1.0449917570047396,
+    "equal_weight_return": -0.01636350949938548
+  },
+  {
+    "date": "2024-09-01",
+    "portfolio_value": 0.9974103892220986,
+    "portfolio_return": -0.04499269880643495,
+    "btc_value": 0.9858529730945891,
+    "btc_return": -0.028407417836189164,
+    "equal_weight_value": 0.9982078820290345,
+    "equal_weight_return": -0.04476961149416304
+  },
+  {
+    "date": "2024-09-02",
+    "portfolio_value": 1.0439903698871453,
+    "portfolio_return": 0.04670091786528869,
+    "btc_value": 1.0174059432133917,
+    "btc_return": 0.03200575641594705,
+    "equal_weight_value": 1.0452970873885148,
+    "equal_weight_return": 0.047173746277942734
+  },
+  {
+    "date": "2024-09-03",
+    "portfolio_value": 0.9980117235765958,
+    "portfolio_return": -0.04404125520383856,
+    "btc_value": 0.9887496346920979,
+    "btc_return": -0.028166051822722138,
+    "equal_weight_value": 0.9985790720326331,
+    "equal_weight_return": -0.044693528681494954
+  },
+  {
+    "date": "2024-09-04",
+    "portfolio_value": 1.0199773528308698,
+    "portfolio_return": 0.02200939000551541,
+    "btc_value": 0.9972414630618022,
+    "btc_return": 0.008588451587492774,
+    "equal_weight_value": 1.0206545432614922,
+    "equal_weight_return": 0.022106883517920905
+  },
+  {
+    "date": "2024-09-05",
+    "portfolio_value": 0.9916542257242121,
+    "portfolio_return": -0.027768388217688345,
+    "btc_value": 0.9661398492394285,
+    "btc_return": -0.031187646096145327,
+    "equal_weight_value": 0.9918190961726998,
+    "equal_weight_return": -0.02825191665404139
+  },
+  {
+    "date": "2024-09-06",
+    "portfolio_value": 0.9626654036461981,
+    "portfolio_return": -0.02923279236453943,
+    "btc_value": 0.9280726587311212,
+    "btc_return": -0.03940132532394236,
+    "equal_weight_value": 0.9627133225150203,
+    "equal_weight_return": -0.029345849227943782
+  },
+  {
+    "date": "2024-09-07",
+    "portfolio_value": 0.9789466271845874,
+    "portfolio_return": 0.016912650518780985,
+    "btc_value": 0.9317449169523335,
+    "btc_return": 0.00395686500045489,
+    "equal_weight_value": 0.9787052833039126,
+    "equal_weight_return": 0.016611342561578424
+  },
+  {
+    "date": "2024-09-08",
+    "portfolio_value": 1.0062284425480785,
+    "portfolio_return": 0.02786854217165311,
+    "btc_value": 0.943983656223376,
+    "btc_return": 0.013135289550142648,
+    "equal_weight_value": 1.0054908381811356,
+    "equal_weight_return": 0.02736835627043971
+  },
+  {
+    "date": "2024-09-09",
+    "portfolio_value": 1.0488856622229141,
+    "portfolio_return": 0.042393176212366435,
+    "btc_value": 0.9814300598133098,
+    "btc_return": 0.03966848720638527,
+    "equal_weight_value": 1.0492215334730508,
+    "equal_weight_return": 0.04349188837067989
+  },
+  {
+    "date": "2024-09-10",
+    "portfolio_value": 1.065886015499709,
+    "portfolio_return": 0.01620801378938272,
+    "btc_value": 0.9915119558675374,
+    "btc_return": 0.01027265871206895,
+    "equal_weight_value": 1.067493109679539,
+    "equal_weight_return": 0.017414412136593248
+  },
+  {
+    "date": "2024-09-11",
+    "portfolio_value": 1.0501135266868529,
+    "portfolio_return": -0.01479753799515017,
+    "btc_value": 0.9865552931244367,
+    "btc_return": -0.004999095284497934,
+    "equal_weight_value": 1.0515875805007042,
+    "equal_weight_return": -0.01489988931507929
+  },
+  {
+    "date": "2024-09-12",
+    "portfolio_value": 1.0801227697076619,
+    "portfolio_return": 0.02857714166913881,
+    "btc_value": 1.0000811890899066,
+    "btc_return": 0.013710225934355114,
+    "equal_weight_value": 1.0818663456800504,
+    "equal_weight_return": 0.02879338415629558
+  },
+  {
+    "date": "2024-09-13",
+    "portfolio_value": 1.1128397974696769,
+    "portfolio_return": 0.030290100977011996,
+    "btc_value": 1.0414929572764777,
+    "btc_return": 0.04140840627575115,
+    "equal_weight_value": 1.1145593946630794,
+    "equal_weight_return": 0.030219120054500268
+  },
+  {
+    "date": "2024-09-14",
+    "portfolio_value": 1.103932489636558,
+    "portfolio_return": -0.00800412409169041,
+    "btc_value": 1.0322927884994968,
+    "btc_return": -0.008833635131858752,
+    "equal_weight_value": 1.105574120052347,
+    "equal_weight_return": -0.008061727938194539
+  },
+  {
+    "date": "2024-09-15",
+    "portfolio_value": 1.0727503236673506,
+    "portfolio_return": -0.028246442841331317,
+    "btc_value": 1.0172581859501937,
+    "btc_return": -0.014564281293834136,
+    "equal_weight_value": 1.0741908856390225,
+    "equal_weight_return": -0.028386368533878662
+  },
+  {
+    "date": "2024-09-16",
+    "portfolio_value": 1.0492223821883526,
+    "portfolio_return": -0.021932355516392922,
+    "btc_value": 1.001274943928785,
+    "btc_return": -0.015712080022712516,
+    "equal_weight_value": 1.050174436871797,
+    "equal_weight_return": -0.02235771042959339
+  },
+  {
+    "date": "2024-09-17",
+    "portfolio_value": 1.0798016887901072,
+    "portfolio_return": 0.02914473339577035,
+    "btc_value": 1.0375963969933204,
+    "btc_return": 0.03627520421315844,
+    "equal_weight_value": 1.0815448470611688,
+    "equal_weight_return": 0.029871618550168094
+  },
+  {
+    "date": "2024-09-18",
+    "portfolio_value": 1.1146481882549089,
+    "portfolio_return": 0.03227120296861764,
+    "btc_value": 1.0626083130403612,
+    "btc_return": 0.02410563116787867,
+    "equal_weight_value": 1.1167027218200856,
+    "equal_weight_return": 0.03250708914609456
+  },
+  {
+    "date": "2024-09-19",
+    "portfolio_value": 1.1495658203106185,
+    "portfolio_return": 0.03132614615413011,
+    "btc_value": 1.0830385498527675,
+    "btc_return": 0.019226498194758967,
+    "equal_weight_value": 1.1521455691266673,
+    "equal_weight_return": 0.031738838469753526
+  },
+  {
+    "date": "2024-09-20",
+    "portfolio_value": 1.1758093902471198,
+    "portfolio_return": 0.022829114673407914,
+    "btc_value": 1.087305449353231,
+    "btc_return": 0.003939748498373863,
+    "equal_weight_value": 1.179039073958759,
+    "equal_weight_return": 0.02334210672048785
+  },
+  {
+    "date": "2024-09-21",
+    "portfolio_value": 1.2095199123340339,
+    "portfolio_return": 0.02867005687021175,
+    "btc_value": 1.0899148529419609,
+    "btc_return": 0.002399880907689722,
+    "equal_weight_value": 1.2124492304755317,
+    "equal_weight_return": 0.02833676784315049
+  },
+  {
+    "date": "2024-09-22",
+    "portfolio_value": 1.1840845921897274,
+    "portfolio_return": -0.021029269452227155,
+    "btc_value": 1.0937727107987858,
+    "btc_return": 0.003539595635761339,
+    "equal_weight_value": 1.1872558465564933,
+    "equal_weight_return": -0.020778918643180936
+  },
+  {
+    "date": "2024-09-23",
+    "portfolio_value": 1.2132138803531602,
+    "portfolio_return": 0.024600681704306317,
+    "btc_value": 1.0895501900805171,
+    "btc_return": -0.003860510210741186,
+    "equal_weight_value": 1.2176373742671733,
+    "equal_weight_return": 0.025589705705639176
+  },
+  {
+    "date": "2024-09-24",
+    "portfolio_value": 1.2455402222900454,
+    "portfolio_return": 0.026645212736500352,
+    "btc_value": 1.1056276940113936,
+    "btc_return": 0.014756092998054804,
+    "equal_weight_value": 1.2490225634947445,
+    "equal_weight_return": 0.025775481182531826
+  },
+  {
+    "date": "2024-09-25",
+    "portfolio_value": 1.2292183531878638,
+    "portfolio_return": -0.013104248911506343,
+    "btc_value": 1.0861591694906545,
+    "btc_return": -0.017608571697498188,
+    "equal_weight_value": 1.2322525453292075,
+    "equal_weight_return": -0.013426513383885378
+  },
+  {
+    "date": "2024-09-26",
+    "portfolio_value": 1.2858084710149915,
+    "portfolio_return": 0.046037482014783325,
+    "btc_value": 1.1212295881253396,
+    "btc_return": 0.03228847080592345,
+    "equal_weight_value": 1.2857333307025696,
+    "equal_weight_return": 0.04340083173378565
+  },
+  {
+    "date": "2024-09-27",
+    "portfolio_value": 1.3221306073986294,
+    "portfolio_return": 0.028248481171512158,
+    "btc_value": 1.1316637622645846,
+    "btc_return": 0.009306010338784088,
+    "equal_weight_value": 1.3202203510926722,
+    "equal_weight_return": 0.026822840760655903
+  },
+  {
+    "date": "2024-09-28",
+    "portfolio_value": 1.3038985174424602,
+    "portfolio_return": -0.013789931081046562,
+    "btc_value": 1.1330121547980094,
+    "btc_return": 0.001191513396811894,
+    "equal_weight_value": 1.3001106368147646,
+    "equal_weight_return": -0.015232089295748166
+  },
+  {
+    "date": "2024-09-29",
+    "portfolio_value": 1.307086840422586,
+    "portfolio_return": 0.00244522325738923,
+    "btc_value": 1.1285968099912127,
+    "btc_return": -0.0038969968575348624,
+    "equal_weight_value": 1.3027917640744278,
+    "equal_weight_return": 0.0020622300777662582
+  },
+  {
+    "date": "2024-09-30",
+    "portfolio_value": 1.2379772577404087,
+    "portfolio_return": -0.052872984827721084,
+    "btc_value": 1.0890830087919878,
+    "btc_return": -0.035011441508090435,
+    "equal_weight_value": 1.2359539796840993,
+    "equal_weight_return": -0.05130350546682615
+  },
+  {
+    "date": "2024-10-01",
+    "portfolio_value": 1.1585463527021531,
+    "portfolio_return": -0.06416184509175489,
+    "btc_value": 1.0456545861773172,
+    "btc_return": -0.03987613640473686,
+    "equal_weight_value": 1.155657139464678,
+    "equal_weight_return": -0.06496750003583844
+  },
+  {
+    "date": "2024-10-02",
+    "portfolio_value": 1.13684443575419,
+    "portfolio_return": -0.01873202301949012,
+    "btc_value": 1.0431043542981804,
+    "btc_return": -0.002438885567804916,
+    "equal_weight_value": 1.1334086215282055,
+    "equal_weight_return": -0.01925183272504027
+  },
+  {
+    "date": "2024-10-03",
+    "portfolio_value": 1.1257179337555074,
+    "portfolio_return": -0.009787180768757592,
+    "btc_value": 1.0449027270417643,
+    "btc_return": 0.001724058322806865,
+    "equal_weight_value": 1.122763136789907,
+    "equal_weight_return": -0.009392450821439002
+  },
+  {
+    "date": "2024-10-04",
+    "portfolio_value": 1.1691457898592756,
+    "portfolio_return": 0.038577919744858816,
+    "btc_value": 1.068084792371804,
+    "btc_return": 0.022185859726551405,
+    "equal_weight_value": 1.1665177946599727,
+    "equal_weight_return": 0.038970515183785547
+  },
+  {
+    "date": "2024-10-05",
+    "portfolio_value": 1.163948688819551,
+    "portfolio_return": -0.004445212123930464,
+    "btc_value": 1.067484990769042,
+    "btc_return": -0.0005615674027434903,
+    "equal_weight_value": 1.1602652425586097,
+    "equal_weight_return": -0.005360014334959613
+  },
+  {
+    "date": "2024-10-06",
+    "portfolio_value": 1.1889821986989397,
+    "portfolio_return": 0.021507399870674182,
+    "btc_value": 1.0806020171016568,
+    "btc_return": 0.012287785257912631,
+    "equal_weight_value": 1.1852427693882264,
+    "equal_weight_return": 0.021527428309871866
+  },
+  {
+    "date": "2024-10-07",
+    "portfolio_value": 1.1797869713475948,
+    "portfolio_return": -0.0077336964013480745,
+    "btc_value": 1.0700763332254832,
+    "btc_return": -0.009740573966727561,
+    "equal_weight_value": 1.1755634150161136,
+    "equal_weight_return": -0.008166558465578264
+  },
+  {
+    "date": "2024-10-08",
+    "portfolio_value": 1.1651110245482583,
+    "portfolio_return": -0.01243948878548234,
+    "btc_value": 1.068688722233375,
+    "btc_return": -0.00129674019415571,
+    "equal_weight_value": 1.161807465657029,
+    "equal_weight_return": -0.011701580011228854
+  },
+  {
+    "date": "2024-10-09",
+    "portfolio_value": 1.1316579730155352,
+    "portfolio_return": -0.028712329407142703,
+    "btc_value": 1.0421311172840055,
+    "btc_return": -0.024850645839949226,
+    "equal_weight_value": 1.1279040502220274,
+    "equal_weight_return": -0.029181612648554022
+  },
+  {
+    "date": "2024-10-10",
+    "portfolio_value": 1.1333489860683728,
+    "portfolio_return": 0.0014942792726777808,
+    "btc_value": 1.036887540553693,
+    "btc_return": -0.00503159021292654,
+    "equal_weight_value": 1.12988987793986,
+    "equal_weight_return": 0.0017606353283700544
+  },
+  {
+    "date": "2024-10-11",
+    "portfolio_value": 1.1759454207411983,
+    "portfolio_return": 0.037584570327798245,
+    "btc_value": 1.0753670409105294,
+    "btc_return": 0.03711058224914976,
+    "equal_weight_value": 1.1724829408007982,
+    "equal_weight_return": 0.03769664964040436
+  },
+  {
+    "date": "2024-10-12",
+    "portfolio_value": 1.202882877154554,
+    "portfolio_return": 0.022907063489712894,
+    "btc_value": 1.0870570657815686,
+    "btc_return": 0.010870730110103644,
+    "equal_weight_value": 1.1987594210336707,
+    "equal_weight_return": 0.02241097018855208
+  },
+  {
+    "date": "2024-10-13",
+    "portfolio_value": 1.1889201737484816,
+    "portfolio_return": -0.011607699861105143,
+    "btc_value": 1.0811648363859234,
+    "btc_return": -0.005420349658836754,
+    "equal_weight_value": 1.1852988194171812,
+    "equal_weight_return": -0.011228776500361205
+  },
+  {
+    "date": "2024-10-14",
+    "portfolio_value": 1.2507838237469586,
+    "portfolio_return": 0.052033476565066995,
+    "btc_value": 1.136445146019095,
+    "btc_return": 0.051130325157411116,
+    "equal_weight_value": 1.2469076600063784,
+    "equal_weight_return": 0.0519774757048107
+  },
+  {
+    "date": "2024-10-15",
+    "portfolio_value": 1.234239717184627,
+    "portfolio_return": -0.013226991146056303,
+    "btc_value": 1.1535849885501028,
+    "btc_return": 0.015081979619560038,
+    "equal_weight_value": 1.2308019802624608,
+    "equal_weight_return": -0.012916497556711789
+  },
+  {
+    "date": "2024-10-16",
+    "portfolio_value": 1.218113803742086,
+    "portfolio_return": -0.013065463068491566,
+    "btc_value": 1.163045925675173,
+    "btc_return": 0.008201335158635636,
+    "equal_weight_value": 1.2132623567518703,
+    "equal_weight_return": -0.014250564909596766
+  },
+  {
+    "date": "2024-10-17",
+    "portfolio_value": 1.1937038070009922,
+    "portfolio_return": -0.02003917586854814,
+    "btc_value": 1.159505255703491,
+    "btc_return": -0.00304430796198063,
+    "equal_weight_value": 1.189180457664199,
+    "equal_weight_return": -0.019848880131864376
+  },
+  {
+    "date": "2024-10-18",
+    "portfolio_value": 1.2240370428170528,
+    "portfolio_return": 0.025411023771691247,
+    "btc_value": 1.1769946241469775,
+    "btc_return": 0.01508347491954698,
+    "equal_weight_value": 1.2195180440462738,
+    "equal_weight_return": 0.025511339499863877
+  },
+  {
+    "date": "2024-10-19",
+    "portfolio_value": 1.2245576982775794,
+    "portfolio_return": 0.0004253592353122906,
+    "btc_value": 1.1760384162003887,
+    "btc_return": -0.0008124148802138853,
+    "equal_weight_value": 1.2199050508839173,
+    "equal_weight_return": 0.00031734408484798807
+  },
+  {
+    "date": "2024-10-20",
+    "portfolio_value": 1.2791334937243843,
+    "portfolio_return": 0.044567761505700645,
+    "btc_value": 1.1872345981114252,
+    "btc_return": 0.009520251853004646,
+    "equal_weight_value": 1.2755443556794523,
+    "equal_weight_return": 0.04560953719735814
+  },
+  {
+    "date": "2024-10-21",
+    "portfolio_value": 1.2363310258926887,
+    "portfolio_return": -0.03346208041747855,
+    "btc_value": 1.1586326449977804,
+    "btc_return": -0.024091239557154753,
+    "equal_weight_value": 1.2322487364229504,
+    "equal_weight_return": -0.03394285668210999
+  },
+  {
+    "date": "2024-10-22",
+    "portfolio_value": 1.2243114948574794,
+    "portfolio_return": -0.009721935940684386,
+    "btc_value": 1.1591861756997273,
+    "btc_return": 0.0004777447833328452,
+    "equal_weight_value": 1.2206431125011108,
+    "equal_weight_return": -0.009418247776442575
+  },
+  {
+    "date": "2024-10-23",
+    "portfolio_value": 1.1915594988530114,
+    "portfolio_return": -0.02675135873675724,
+    "btc_value": 1.1458149174288037,
+    "btc_return": -0.011535039453737683,
+    "equal_weight_value": 1.187627407989249,
+    "equal_weight_return": -0.02704779486627532
+  },
+  {
+    "date": "2024-10-24",
+    "portfolio_value": 1.2040004616996378,
+    "portfolio_return": 0.01044090778396051,
+    "btc_value": 1.1724867375385502,
+    "btc_return": 0.023277598942067934,
+    "equal_weight_value": 1.20007314683404,
+    "equal_weight_return": 0.010479497829931917
+  },
+  {
+    "date": "2024-10-25",
+    "portfolio_value": 1.113311526641482,
+    "portfolio_return": -0.07532300687836457,
+    "btc_value": 1.1452094394701797,
+    "btc_return": -0.023264483251754897,
+    "equal_weight_value": 1.1094424956482944,
+    "equal_weight_return": -0.07552093922344809
+  },
+  {
+    "date": "2024-10-26",
+    "portfolio_value": 1.1294403065512189,
+    "portfolio_return": 0.014487211821467949,
+    "btc_value": 1.1527254506639535,
+    "btc_return": 0.006563001434262583,
+    "equal_weight_value": 1.1252514314611128,
+    "equal_weight_return": 0.014249441385946365
+  },
+  {
+    "date": "2024-10-27",
+    "portfolio_value": 1.1527376287126014,
+    "portfolio_return": 0.020627316048708922,
+    "btc_value": 1.1687296780009737,
+    "btc_return": 0.013883815376681374,
+    "equal_weight_value": 1.1483274641566759,
+    "equal_weight_return": 0.020507445758677616
+  },
+  {
+    "date": "2024-10-28",
+    "portfolio_value": 1.166106415119059,
+    "portfolio_return": 0.01159742344959092,
+    "btc_value": 1.2027996819176594,
+    "btc_return": 0.029151312367595494,
+    "equal_weight_value": 1.1611881486864544,
+    "equal_weight_return": 0.011199492245205058
+  },
+  {
+    "date": "2024-10-29",
+    "portfolio_value": 1.2105341452683274,
+    "portfolio_return": 0.038099207390718544,
+    "btc_value": 1.2509255470243945,
+    "btc_return": 0.040011537939556696,
+    "equal_weight_value": 1.204881882534213,
+    "equal_weight_return": 0.037628470370788175
+  },
+  {
+    "date": "2024-10-30",
+    "portfolio_value": 1.196013179197374,
+    "portfolio_return": -0.011995503082430269,
+    "btc_value": 1.2441877126160799,
+    "btc_return": -0.005386279322811882,
+    "equal_weight_value": 1.1923318278142316,
+    "equal_weight_return": -0.010416004175932131
+  },
+  {
+    "date": "2024-10-31",
+    "portfolio_value": 1.1528078832699222,
+    "portfolio_return": -0.03612443130137261,
+    "btc_value": 1.2076453977052732,
+    "btc_return": -0.029370419383077828,
+    "equal_weight_value": 1.146748887338234,
+    "equal_weight_return": -0.03823007942307436
+  },
+  {
+    "date": "2024-11-01",
+    "portfolio_value": 1.1355901235236183,
+    "portfolio_return": -0.01493549792309372,
+    "btc_value": 1.1950175700415016,
+    "btc_return": -0.010456569194704612,
+    "equal_weight_value": 1.1298939621154027,
+    "equal_weight_return": -0.0146980087872193
+  },
+  {
+    "date": "2024-11-02",
+    "portfolio_value": 1.1150071910666013,
+    "portfolio_return": -0.018125318308643276,
+    "btc_value": 1.1929637612841228,
+    "btc_return": -0.0017186431470689323,
+    "equal_weight_value": 1.1090607026286767,
+    "equal_weight_return": -0.018438243043375154
+  },
+  {
+    "date": "2024-11-03",
+    "portfolio_value": 1.0794044683972486,
+    "portfolio_return": -0.031930487044927035,
+    "btc_value": 1.1825232227458808,
+    "btc_return": -0.008751765038532033,
+    "equal_weight_value": 1.073763023314108,
+    "equal_weight_return": -0.03182664324045273
+  },
+  {
+    "date": "2024-11-04",
+    "portfolio_value": 1.0541061831523006,
+    "portfolio_return": -0.023437261921392612,
+    "btc_value": 1.1664386663728727,
+    "btc_return": -0.013601894714303286,
+    "equal_weight_value": 1.0468767386710156,
+    "equal_weight_return": -0.025039309474551952
+  },
+  {
+    "date": "2024-11-05",
+    "portfolio_value": 1.0986069912152323,
+    "portfolio_return": 0.04221662748419899,
+    "btc_value": 1.1933779632512727,
+    "btc_return": 0.02309533939077113,
+    "equal_weight_value": 1.0908580202354767,
+    "equal_weight_return": 0.042011900675426435
+  },
+  {
+    "date": "2024-11-06",
+    "portfolio_value": 1.2286469250597931,
+    "portfolio_return": 0.1183680195778803,
+    "btc_value": 1.301150975756973,
+    "btc_return": 0.09030920280451671,
+    "equal_weight_value": 1.2202690032435777,
+    "equal_weight_return": 0.11863228816905598
+  },
+  {
+    "date": "2024-11-07",
+    "portfolio_value": 1.2487780631405643,
+    "portfolio_return": 0.016384803209263214,
+    "btc_value": 1.3059473244496653,
+    "btc_return": 0.0036862353270741277,
+    "equal_weight_value": 1.2391648621323945,
+    "equal_weight_return": 0.01548499456971385
+  },
+  {
+    "date": "2024-11-08",
+    "portfolio_value": 1.26086976359409,
+    "portfolio_return": 0.009682825804223373,
+    "btc_value": 1.3169542944986317,
+    "btc_return": 0.008428341513394999,
+    "equal_weight_value": 1.2515055852054664,
+    "equal_weight_return": 0.009958903330938181
+  },
+  {
+    "date": "2024-11-09",
+    "portfolio_value": 1.3169368600626024,
+    "portfolio_return": 0.044467000547855094,
+    "btc_value": 1.3196049806754495,
+    "btc_return": 0.0020127396887581472,
+    "equal_weight_value": 1.3071770476752234,
+    "equal_weight_return": 0.04448359090672132
+  },
+  {
+    "date": "2024-11-10",
+    "portfolio_value": 1.3907607537378435,
+    "portfolio_return": 0.056057276483044045,
+    "btc_value": 1.383472928684846,
+    "btc_return": 0.04839929292833167,
+    "equal_weight_value": 1.374007681988284,
+    "equal_weight_return": 0.051125923938090095
+  },
+  {
+    "date": "2024-11-11",
+    "portfolio_value": 1.5022674749056792,
+    "portfolio_return": 0.08017678156947375,
+    "btc_value": 1.5267386462992147,
+    "btc_return": 0.10355512901185548,
+    "equal_weight_value": 1.482469018803585,
+    "equal_weight_return": 0.078937940622246
+  },
+  {
+    "date": "2024-11-12",
+    "portfolio_value": 1.447302219150836,
+    "portfolio_return": -0.03658819529344742,
+    "btc_value": 1.5143922282775761,
+    "btc_return": -0.008086792098677908,
+    "equal_weight_value": 1.421901482912765,
+    "equal_weight_return": -0.040855852717718556
+  },
+  {
+    "date": "2024-11-13",
+    "portfolio_value": 1.414534099984175,
+    "portfolio_return": -0.02264082700424992,
+    "btc_value": 1.5566719628786978,
+    "btc_return": 0.02791861567409737,
+    "equal_weight_value": 1.3839611736081439,
+    "equal_weight_return": -0.026682797479682135
+  },
+  {
+    "date": "2024-11-14",
+    "portfolio_value": 1.3711577016579115,
+    "portfolio_return": -0.03066479509171872,
+    "btc_value": 1.502242246570923,
+    "btc_return": -0.034965437552507694,
+    "equal_weight_value": 1.3402059165688778,
+    "equal_weight_return": -0.03161595706127451
+  },
+  {
+    "date": "2024-11-15",
+    "portfolio_value": 1.4531223633205699,
+    "portfolio_return": 0.05977770577633202,
+    "btc_value": 1.5663116192080324,
+    "btc_return": 0.042649161800206725,
+    "equal_weight_value": 1.4152008553847542,
+    "equal_weight_return": 0.055957773271046486
+  },
+  {
+    "date": "2024-11-16",
+    "portfolio_value": 1.5956763921205241,
+    "portfolio_return": 0.09810187524345851,
+    "btc_value": 1.5589499016872377,
+    "btc_return": -0.004700033780325907,
+    "equal_weight_value": 1.5490932730592348,
+    "equal_weight_return": 0.09461018707346597
+  },
+  {
+    "date": "2024-11-17",
+    "portfolio_value": 1.5177050562317767,
+    "portfolio_return": -0.04886412826170214,
+    "btc_value": 1.5459840728334953,
+    "btc_return": -0.008317027275674294,
+    "equal_weight_value": 1.474857229872871,
+    "equal_weight_return": -0.04792225521692331
+  },
+  {
+    "date": "2024-11-18",
+    "portfolio_value": 1.6463422134996373,
+    "portfolio_return": 0.0847576785355427,
+    "btc_value": 1.5569526844776964,
+    "btc_return": 0.007094905980562727,
+    "equal_weight_value": 1.5961944995081487,
+    "equal_weight_return": 0.08227051892049014
+  },
+  {
+    "date": "2024-11-19",
+    "portfolio_value": 1.6105550152424999,
+    "portfolio_return": -0.02173739940802728,
+    "btc_value": 1.5896975173167567,
+    "btc_return": 0.021031360275437727,
+    "equal_weight_value": 1.5600652552687966,
+    "equal_weight_return": -0.022634612668120935
+  },
+  {
+    "date": "2024-11-20",
+    "portfolio_value": 1.5569941635373077,
+    "portfolio_return": -0.03325614536497373,
+    "btc_value": 1.6234364004748199,
+    "btc_return": 0.021223460935518634,
+    "equal_weight_value": 1.507647049143887,
+    "equal_weight_return": -0.033600008684174044
+  },
+  {
+    "date": "2024-11-21",
+    "portfolio_value": 1.6470040153450538,
+    "portfolio_return": 0.05781001234022256,
+    "btc_value": 1.693209650699423,
+    "btc_return": 0.04297873954544573,
+    "equal_weight_value": 1.5955754617401388,
+    "equal_weight_return": 0.058321616220574836
+  },
+  {
+    "date": "2024-11-22",
+    "portfolio_value": 1.7457045678111975,
+    "portfolio_return": 0.0599273295915224,
+    "btc_value": 1.7030940783739628,
+    "btc_return": 0.005837686827769195,
+    "equal_weight_value": 1.6874107920140464,
+    "equal_weight_return": 0.057556243797928515
+  },
+  {
+    "date": "2024-11-23",
+    "portfolio_value": 1.86680343935494,
+    "portfolio_return": 0.06936962517980869,
+    "btc_value": 1.6816641148866918,
+    "btc_return": -0.012582959308819475,
+    "equal_weight_value": 1.8027552944296639,
+    "equal_weight_return": 0.06835591129409911
+  },
+  {
+    "date": "2024-11-24",
+    "portfolio_value": 1.9465224314721272,
+    "portfolio_return": 0.04270347399013431,
+    "btc_value": 1.6860187398868423,
+    "btc_return": 0.0025894737014375835,
+    "equal_weight_value": 1.882942758496694,
+    "equal_weight_return": 0.044480503990087496
+  },
+  {
+    "date": "2024-11-25",
+    "portfolio_value": 1.8778880490171221,
+    "portfolio_return": -0.03526000078154658,
+    "btc_value": 1.6000336453092932,
+    "btc_return": -0.05099889612337294,
+    "equal_weight_value": 1.8222509445877177,
+    "equal_weight_return": -0.03223242641610164
+  },
+  {
+    "date": "2024-11-26",
+    "portfolio_value": 1.866464858754221,
+    "portfolio_return": -0.006082998541302745,
+    "btc_value": 1.580846014398336,
+    "btc_return": -0.011992017147394507,
+    "equal_weight_value": 1.8111812429832643,
+    "equal_weight_return": -0.006074740494623753
+  },
+  {
+    "date": "2024-11-27",
+    "portfolio_value": 1.9892399887211625,
+    "portfolio_return": 0.06577950256662658,
+    "btc_value": 1.6505726497005562,
+    "btc_return": 0.044107164560716505,
+    "equal_weight_value": 1.9335478511250084,
+    "equal_weight_return": 0.06756176866109191
+  },
+  {
+    "date": "2024-11-28",
+    "portfolio_value": 2.0045708972609435,
+    "portfolio_return": 0.00770691752966278,
+    "btc_value": 1.6456342201005278,
+    "btc_return": -0.0029919492492040956,
+    "equal_weight_value": 1.9463732845240875,
+    "equal_weight_return": 0.006633108868558284
+  },
+  {
+    "date": "2024-11-29",
+    "portfolio_value": 2.091901137526234,
+    "portfolio_return": 0.04356555329852319,
+    "btc_value": 1.6772929768513059,
+    "btc_return": 0.019238027724559625,
+    "equal_weight_value": 2.024720573626289,
+    "equal_weight_return": 0.04025296161078296
+  },
+  {
+    "date": "2024-11-30",
+    "portfolio_value": 2.166528395742799,
+    "portfolio_return": 0.03567437144989331,
+    "btc_value": 1.6594484061394787,
+    "btc_return": -0.010638911006069951,
+    "equal_weight_value": 2.099311324000362,
+    "equal_weight_return": 0.036840021949537484
+  },
+  {
+    "date": "2024-12-01",
+    "portfolio_value": 2.19916691220827,
+    "portfolio_return": 0.015064892077853912,
+    "btc_value": 1.6732601840274581,
+    "btc_return": 0.008323113774962643,
+    "equal_weight_value": 2.124116678309271,
+    "equal_weight_return": 0.011815948413806981
+  },
+  {
+    "date": "2024-12-02",
+    "portfolio_value": 2.327585201021303,
+    "portfolio_return": 0.058394061905961955,
+    "btc_value": 1.6488910722791044,
+    "btc_return": -0.014563850846972537,
+    "equal_weight_value": 2.2425721688447373,
+    "equal_weight_return": 0.05576694149859657
+  },
+  {
+    "date": "2024-12-03",
+    "portfolio_value": 2.4774582095939945,
+    "portfolio_return": 0.06438991299091011,
+    "btc_value": 1.6500714102768541,
+    "btc_return": 0.0007158374604565587,
+    "equal_weight_value": 2.3844447360035015,
+    "equal_weight_return": 0.06326332286191261
+  },
+  {
+    "date": "2024-12-04",
+    "portfolio_value": 2.5375855996285908,
+    "portfolio_return": 0.02426978981996612,
+    "btc_value": 1.6986386550545638,
+    "btc_return": 0.029433419956995,
+    "equal_weight_value": 2.4431093796281047,
+    "equal_weight_return": 0.024603062817437894
+  },
+  {
+    "date": "2024-12-05",
+    "portfolio_value": 2.521265625111063,
+    "portfolio_return": -0.006431300098769726,
+    "btc_value": 1.6694303639283765,
+    "btc_return": -0.017195117419042227,
+    "equal_weight_value": 2.424296856309733,
+    "equal_weight_return": -0.007700237850683303
+  },
+  {
+    "date": "2024-12-06",
+    "portfolio_value": 2.6678822728448073,
+    "portfolio_return": 0.058152003610205005,
+    "btc_value": 1.7183528109744266,
+    "btc_return": 0.029304874347037435,
+    "equal_weight_value": 2.5676181639990743,
+    "equal_weight_return": 0.059118712015947324
+  },
+  {
+    "date": "2024-12-07",
+    "portfolio_value": 2.640072085491698,
+    "portfolio_return": -0.010424068421675476,
+    "btc_value": 1.7188414936109184,
+    "btc_return": 0.0002843901632836321,
+    "equal_weight_value": 2.5404672906652994,
+    "equal_weight_return": -0.010574342289075908
+  },
+  {
+    "date": "2024-12-08",
+    "portfolio_value": 2.681331539235648,
+    "portfolio_return": 0.015628154235139156,
+    "btc_value": 1.7405738520559342,
+    "btc_return": 0.012643608224374825,
+    "equal_weight_value": 2.5746473068080946,
+    "equal_weight_return": 0.013454224058851716
+  },
+  {
+    "date": "2024-12-09",
+    "portfolio_value": 2.2822288047744714,
+    "portfolio_return": -0.14884497818384154,
+    "btc_value": 1.6743244147462104,
+    "btc_return": -0.03806183646357275,
+    "equal_weight_value": 2.1880357527709853,
+    "equal_weight_return": -0.15016097661796207
+  },
+  {
+    "date": "2024-12-10",
+    "portfolio_value": 2.2346904382513393,
+    "portfolio_return": -0.02082979867035287,
+    "btc_value": 1.6626197689585567,
+    "btc_return": -0.006990667808799644,
+    "equal_weight_value": 2.141695531315718,
+    "equal_weight_return": -0.021178914191224085
+  },
+  {
+    "date": "2024-12-11",
+    "portfolio_value": 2.3903078209892366,
+    "portfolio_return": 0.06963710949587666,
+    "btc_value": 1.7408019383551208,
+    "btc_return": 0.04702348116884014,
+    "equal_weight_value": 2.292188001964132,
+    "equal_weight_return": 0.07026791084349945
+  },
+  {
+    "date": "2024-12-12",
+    "portfolio_value": 2.424555753324519,
+    "portfolio_return": 0.014327833442434504,
+    "btc_value": 1.7208299382704912,
+    "btc_return": -0.011472873303151832,
+    "equal_weight_value": 2.330898850266749,
+    "equal_weight_return": 0.016888164613655856
+  },
+  {
+    "date": "2024-12-13",
+    "portfolio_value": 2.4279427322604694,
+    "portfolio_return": 0.001396948257966915,
+    "btc_value": 1.7447015948323845,
+    "btc_return": 0.013872176460322017,
+    "equal_weight_value": 2.33235412953797,
+    "equal_weight_return": 0.0006243425239387326
+  },
+  {
+    "date": "2024-12-14",
+    "portfolio_value": 2.3453833902407535,
+    "portfolio_return": -0.03400382592337806,
+    "btc_value": 1.7442400898997172,
+    "btc_return": -0.0002645179748984594,
+    "equal_weight_value": 2.250652409510194,
+    "equal_weight_return": -0.03502972339966277
+  },
+  {
+    "date": "2024-12-15",
+    "portfolio_value": 2.421540412595275,
+    "portfolio_return": 0.032471033380476175,
+    "btc_value": 1.7962146962917411,
+    "btc_return": 0.02979785104871202,
+    "equal_weight_value": 2.324563035987169,
+    "equal_weight_return": 0.03283964514674223
+  },
+  {
+    "date": "2024-12-16",
+    "portfolio_value": 2.3578518352497353,
+    "portfolio_return": -0.0263008525541317,
+    "btc_value": 1.824848643411154,
+    "btc_return": 0.015941272041993138,
+    "equal_weight_value": 2.2630843553926616,
+    "equal_weight_return": -0.026447413833369904
+  },
+  {
+    "date": "2024-12-17",
+    "portfolio_value": 2.2769423240508533,
+    "portfolio_return": -0.03431492598020362,
+    "btc_value": 1.8257248663433219,
+    "btc_return": 0.0004801619769023713,
+    "equal_weight_value": 2.1816412364767794,
+    "equal_weight_return": -0.0359876637924754
+  },
+  {
+    "date": "2024-12-18",
+    "portfolio_value": 2.0645926741072467,
+    "portfolio_return": -0.09326088223693792,
+    "btc_value": 1.7226408678012852,
+    "btc_return": -0.05646195680540844,
+    "equal_weight_value": 1.9792801952053358,
+    "equal_weight_return": -0.09275633311655068
+  },
+  {
+    "date": "2024-12-19",
+    "portfolio_value": 1.8975611966503396,
+    "portfolio_return": -0.08090287229617016,
+    "btc_value": 1.6750599328573117,
+    "btc_return": -0.027620925425218767,
+    "equal_weight_value": 1.8194960857377986,
+    "equal_weight_return": -0.08072839300600436
+  },
+  {
+    "date": "2024-12-20",
+    "portfolio_value": 1.9666833392719687,
+    "portfolio_return": 0.036426831842707626,
+    "btc_value": 1.681740659685438,
+    "btc_return": 0.003988350922304207,
+    "equal_weight_value": 1.8857455486058197,
+    "equal_weight_return": 0.03641088507269687
+  },
+  {
+    "date": "2024-12-21",
+    "portfolio_value": 1.8782286804934205,
+    "portfolio_return": -0.04497656384850073,
+    "btc_value": 1.6723471507875782,
+    "btc_return": -0.005585587078341114,
+    "equal_weight_value": 1.7995004498766667,
+    "equal_weight_return": -0.04573527896853116
+  },
+  {
+    "date": "2024-12-22",
+    "portfolio_value": 1.8697473553909816,
+    "portfolio_return": -0.004515597696128648,
+    "btc_value": 1.6357995035424773,
+    "btc_return": -0.021854103215285914,
+    "equal_weight_value": 1.791899127148714,
+    "equal_weight_return": -0.004224129384615437
+  },
+  {
+    "date": "2024-12-23",
+    "portfolio_value": 2.0064184849909443,
+    "portfolio_return": 0.07309604113406193,
+    "btc_value": 1.6301744068939181,
+    "btc_return": -0.0034387445627520608,
+    "equal_weight_value": 1.92230368933569,
+    "equal_weight_return": 0.07277449953027047
+  },
+  {
+    "date": "2024-12-24",
+    "portfolio_value": 2.0821637326143856,
+    "portfolio_return": 0.03775147018932242,
+    "btc_value": 1.696145530755615,
+    "btc_return": 0.040468752044387823,
+    "equal_weight_value": 1.9935436180553108,
+    "equal_weight_return": 0.03705966394115371
+  },
+  {
+    "date": "2024-12-25",
+    "portfolio_value": 2.0515678729408973,
+    "portfolio_return": -0.01469426212465614,
+    "btc_value": 1.709031374594937,
+    "btc_return": 0.007597133386061161,
+    "equal_weight_value": 1.9665692274976252,
+    "equal_weight_return": -0.013530875529073652
+  },
+  {
+    "date": "2024-12-26",
+    "portfolio_value": 1.9195797998036148,
+    "portfolio_return": -0.06433522130958273,
+    "btc_value": 1.645802446646986,
+    "btc_return": -0.036996938083092235,
+    "equal_weight_value": 1.8402214283338054,
+    "equal_weight_return": -0.06424782682305669
+  },
+  {
+    "date": "2024-12-27",
+    "portfolio_value": 1.9223753977391231,
+    "portfolio_return": 0.001456359321865208,
+    "btc_value": 1.6198270982004412,
+    "btc_return": -0.015782786384517022,
+    "equal_weight_value": 1.8441755354613965,
+    "equal_weight_return": 0.002148712685718137
+  },
+  {
+    "date": "2024-12-28",
+    "portfolio_value": 1.9883366120812496,
+    "portfolio_return": 0.03431234836843132,
+    "btc_value": 1.6365131762840486,
+    "btc_return": 0.010301147636154973,
+    "equal_weight_value": 1.9074007968991347,
+    "equal_weight_return": 0.03428375456782106
+  },
+  {
+    "date": "2024-12-29",
+    "portfolio_value": 1.9007211001680862,
+    "portfolio_return": -0.044064727964473735,
+    "btc_value": 1.6094163175277796,
+    "btc_return": -0.016557678330336723,
+    "equal_weight_value": 1.825095756109487,
+    "equal_weight_return": -0.04315036510598665
+  },
+  {
+    "date": "2024-12-30",
+    "portfolio_value": 1.8937720558294282,
+    "portfolio_return": -0.0036560042070576406,
+    "btc_value": 1.593614718893958,
+    "btc_return": -0.009818216990675421,
+    "equal_weight_value": 1.8165386475137442,
+    "equal_weight_return": -0.004688580622193579
+  },
+  {
+    "date": "2024-12-31",
+    "portfolio_value": 1.864735536410024,
+    "portfolio_return": -0.015332636961256077,
+    "btc_value": 1.6064427671099566,
+    "btc_return": 0.00804965470255059,
+    "equal_weight_value": 1.7874612476154121,
+    "equal_weight_return": -0.01600703620488864
+  },
+  {
+    "date": "2025-01-01",
+    "portfolio_value": 1.952474559144036,
+    "portfolio_return": 0.047051724505088086,
+    "btc_value": 1.623652962051498,
+    "btc_return": 0.010713232549518725,
+    "equal_weight_value": 1.868770124045009,
+    "equal_weight_return": 0.0454884694916145
+  },
+  {
+    "date": "2025-01-02",
+    "portfolio_value": 2.0202751740478373,
+    "portfolio_return": 0.034725479308434636,
+    "btc_value": 1.6668010070887378,
+    "btc_return": 0.026574672079384465,
+    "equal_weight_value": 1.9313824221865263,
+    "equal_weight_return": 0.03350454790340466
+  },
+  {
+    "date": "2025-01-03",
+    "portfolio_value": 2.135957057294408,
+    "portfolio_return": 0.057260458739781334,
+    "btc_value": 1.688041586703155,
+    "btc_return": 0.01274332060280936,
+    "equal_weight_value": 2.0418167838728762,
+    "equal_weight_return": 0.05717892035142725
+  },
+  {
+    "date": "2025-01-04",
+    "portfolio_value": 2.1390593531473274,
+    "portfolio_return": 0.0014524148986632412,
+    "btc_value": 1.6893813786973948,
+    "btc_return": 0.0007936960823675676,
+    "equal_weight_value": 2.045245226334439,
+    "equal_weight_return": 0.0016791136641849357
+  },
+  {
+    "date": "2025-01-05",
+    "portfolio_value": 2.1377840249688536,
+    "portfolio_return": -0.0005962098137191218,
+    "btc_value": 1.6916739384225492,
+    "btc_return": 0.001357040958342992,
+    "equal_weight_value": 2.0454844575545157,
+    "equal_weight_return": 0.00011696945529866253
+  },
+  {
+    "date": "2025-01-06",
+    "portfolio_value": 2.167795951380908,
+    "portfolio_return": 0.014038801890893474,
+    "btc_value": 1.7593641380565448,
+    "btc_return": 0.04001373911163708,
+    "equal_weight_value": 2.074618580647296,
+    "equal_weight_return": 0.01424314078025878
+  },
+  {
+    "date": "2025-01-07",
+    "portfolio_value": 1.9695253089953557,
+    "portfolio_return": -0.0914618565733791,
+    "btc_value": 1.667515023851877,
+    "btc_return": -0.0522058579107606,
+    "equal_weight_value": 1.8825241666639148,
+    "equal_weight_return": -0.09259264125719263
+  },
+  {
+    "date": "2025-01-08",
+    "portfolio_value": 1.9083420381544103,
+    "portfolio_return": -0.031064983304101075,
+    "btc_value": 1.6349807322120655,
+    "btc_return": -0.019510643786980086,
+    "equal_weight_value": 1.8225609553507598,
+    "equal_weight_return": -0.03185255858861983
+  },
+  {
+    "date": "2025-01-09",
+    "portfolio_value": 1.8407550179428698,
+    "portfolio_return": -0.035416617598019874,
+    "btc_value": 1.5919274651166446,
+    "btc_return": -0.026332583771290996,
+    "equal_weight_value": 1.7611068892288602,
+    "equal_weight_return": -0.03371852444302618
+  },
+  {
+    "date": "2025-01-10",
+    "portfolio_value": 1.898101037303897,
+    "portfolio_return": 0.031153531459669145,
+    "btc_value": 1.6291191207359186,
+    "btc_return": 0.023362657177693036,
+    "equal_weight_value": 1.815457517687921,
+    "equal_weight_return": 0.03086162957596486
+  },
+  {
+    "date": "2025-01-11",
+    "portfolio_value": 1.924244958728946,
+    "portfolio_return": 0.013773724849855553,
+    "btc_value": 1.6267051213974721,
+    "btc_return": -0.0014817819689919576,
+    "equal_weight_value": 1.833882794777556,
+    "equal_weight_return": 0.010149109472470724
+  },
+  {
+    "date": "2025-01-12",
+    "portfolio_value": 1.8753151004477813,
+    "portfolio_return": -0.025428081835009934,
+    "btc_value": 1.6255994360798482,
+    "btc_return": -0.0006797085120590074,
+    "equal_weight_value": 1.7904329913936592,
+    "equal_weight_return": -0.023692791877229644
+  },
+  {
+    "date": "2025-01-13",
+    "portfolio_value": 1.8262508662148194,
+    "portfolio_return": -0.02616319477257269,
+    "btc_value": 1.6258056770095046,
+    "btc_return": 0.00012687069463668266,
+    "equal_weight_value": 1.742745453535653,
+    "equal_weight_return": -0.02663463982580361
+  },
+  {
+    "date": "2025-01-14",
+    "portfolio_value": 1.8965886718943226,
+    "portfolio_return": 0.03851486506083836,
+    "btc_value": 1.6603662556813026,
+    "btc_return": 0.02125750891420708,
+    "equal_weight_value": 1.809887699785678,
+    "equal_weight_return": 0.03852670859867007
+  },
+  {
+    "date": "2025-01-15",
+    "portfolio_value": 2.041324336214702,
+    "portfolio_return": 0.0763136817514665,
+    "btc_value": 1.7288948358750522,
+    "btc_return": 0.04127317087977689,
+    "equal_weight_value": 1.9455783246132945,
+    "equal_weight_return": 0.07497184761445934
+  },
+  {
+    "date": "2025-01-16",
+    "portfolio_value": 2.016263579863794,
+    "portfolio_return": -0.01227671463388298,
+    "btc_value": 1.7197540108184477,
+    "btc_return": -0.00528709142217898,
+    "equal_weight_value": 1.9205196723353932,
+    "equal_weight_return": -0.012879796182393169
+  },
+  {
+    "date": "2025-01-17",
+    "portfolio_value": 2.1351578239524756,
+    "portfolio_return": 0.05896760982843003,
+    "btc_value": 1.7908237063197983,
+    "btc_return": 0.041325500655484904,
+    "equal_weight_value": 2.032069390281096,
+    "equal_weight_return": 0.058083090505423325
+  },
+  {
+    "date": "2025-01-18",
+    "portfolio_value": 2.0029943651344553,
+    "portfolio_return": -0.06189868371105573,
+    "btc_value": 1.7963347598187644,
+    "btc_return": 0.0030773847138150234,
+    "equal_weight_value": 1.907439842681892,
+    "equal_weight_return": -0.0613313443897523
+  },
+  {
+    "date": "2025-01-19",
+    "portfolio_value": 1.839361310721519,
+    "portfolio_return": -0.08169421605035418,
+    "btc_value": 1.7409651765888523,
+    "btc_return": -0.03082364404922966,
+    "equal_weight_value": 1.7531620905351784,
+    "equal_weight_return": -0.08088210631576012
+  },
+  {
+    "date": "2025-01-20",
+    "portfolio_value": 1.851390786753079,
+    "portfolio_return": 0.006540028846665837,
+    "btc_value": 1.7570684821372837,
+    "btc_return": 0.009249642534483904,
+    "equal_weight_value": 1.763603201419713,
+    "equal_weight_return": 0.0059555878722811805
+  },
+  {
+    "date": "2025-01-21",
+    "portfolio_value": 1.9155953405535733,
+    "portfolio_return": 0.03467909328483509,
+    "btc_value": 1.8259909670257062,
+    "btc_return": 0.03922583871323315,
+    "equal_weight_value": 1.826209416026295,
+    "equal_weight_return": 0.03549903660652449
+  },
+  {
+    "date": "2025-01-22",
+    "portfolio_value": 1.861882488752971,
+    "portfolio_return": -0.028039769498019423,
+    "btc_value": 1.7832199696263373,
+    "btc_return": -0.023423444130743487,
+    "equal_weight_value": 1.7752521070404739,
+    "equal_weight_return": -0.02790332178699451
+  },
+  {
+    "date": "2025-01-23",
+    "portfolio_value": 1.8531405294557908,
+    "portfolio_return": -0.004695226121942463,
+    "btc_value": 1.7877748151787147,
+    "btc_return": 0.0025542813729995117,
+    "equal_weight_value": 1.7670477234408513,
+    "equal_weight_return": -0.004621531537455961
+  },
+  {
+    "date": "2025-01-24",
+    "portfolio_value": 1.8208579051371179,
+    "portfolio_return": -0.017420494455513965,
+    "btc_value": 1.8036152882496526,
+    "btc_return": 0.008860440887995313,
+    "equal_weight_value": 1.7353610836619582,
+    "equal_weight_return": -0.017931966046277375
+  },
+  {
+    "date": "2025-01-25",
+    "portfolio_value": 1.833488715267461,
+    "portfolio_return": 0.0069367357522563495,
+    "btc_value": 1.8015231210875087,
+    "btc_return": -0.0011599852672430355,
+    "equal_weight_value": 1.7486714179803238,
+    "equal_weight_return": 0.007670066157227704
+  },
+  {
+    "date": "2025-01-26",
+    "portfolio_value": 1.7878066800155545,
+    "portfolio_return": -0.024915362102592764,
+    "btc_value": 1.764433811884536,
+    "btc_return": -0.02058775086971032,
+    "equal_weight_value": 1.7066724191263003,
+    "equal_weight_return": -0.024017661878714333
+  },
+  {
+    "date": "2025-01-27",
+    "portfolio_value": 1.7544095875398853,
+    "portfolio_return": -0.0186804831019978,
+    "btc_value": 1.7556404486110058,
+    "btc_return": -0.004983674204326327,
+    "equal_weight_value": 1.673498970385573,
+    "equal_weight_return": -0.01943750210582879
+  },
+  {
+    "date": "2025-01-28",
+    "portfolio_value": 1.6495757365244674,
+    "portfolio_return": -0.05975449049068454,
+    "btc_value": 1.7422021061344393,
+    "btc_return": -0.007654381902170493,
+    "equal_weight_value": 1.5743626059611382,
+    "equal_weight_return": -0.05923897545129278
+  },
+  {
+    "date": "2025-01-29",
+    "portfolio_value": 1.6979333051594339,
+    "portfolio_return": 0.029315155142165417,
+    "btc_value": 1.7844909573070973,
+    "btc_return": 0.024273217799333002,
+    "equal_weight_value": 1.6199739465232108,
+    "equal_weight_return": 0.02897130584108799
+  },
+  {
+    "date": "2025-01-30",
+    "portfolio_value": 1.779784978905927,
+    "portfolio_return": 0.048206648339940074,
+    "btc_value": 1.8016337240214282,
+    "btc_return": 0.009606530447316075,
+    "equal_weight_value": 1.6964059647812608,
+    "equal_weight_return": 0.047181016967642354
+  },
+  {
+    "date": "2025-01-31",
+    "portfolio_value": 1.7859813323037141,
+    "portfolio_return": 0.0034815179761749876,
+    "btc_value": 1.7616038904711033,
+    "btc_return": -0.02221863024465054,
+    "equal_weight_value": 1.7030137442872026,
+    "equal_weight_return": 0.00389516403686649
+  },
+  {
+    "date": "2025-02-01",
+    "portfolio_value": 1.6511410486371088,
+    "portfolio_return": -0.07549926823293089,
+    "btc_value": 1.7307702694497342,
+    "btc_return": -0.017503152205870398,
+    "equal_weight_value": 1.5738764137940326,
+    "equal_weight_return": -0.07582870715304789
+  },
+  {
+    "date": "2025-02-02",
+    "portfolio_value": 1.466999774142606,
+    "portfolio_return": -0.11152364884059862,
+    "btc_value": 1.6799443510712593,
+    "btc_return": -0.029366068550873647,
+    "equal_weight_value": 1.3994105524957763,
+    "equal_weight_return": -0.11085105524752335
+  },
+  {
+    "date": "2025-02-03",
+    "portfolio_value": 1.5149575095713756,
+    "portfolio_return": 0.03269103122854869,
+    "btc_value": 1.7450714180173403,
+    "btc_return": 0.03876739542268237,
+    "equal_weight_value": 1.4426826798868706,
+    "equal_weight_return": 0.03092168149934312
+  },
+  {
+    "date": "2025-02-04",
+    "portfolio_value": 1.414096619443973,
+    "portfolio_return": -0.06657671221151208,
+    "btc_value": 1.6821773950652534,
+    "btc_return": -0.036040944973784406,
+    "equal_weight_value": 1.3473651293577358,
+    "equal_weight_return": -0.06606965749156239
+  },
+  {
+    "date": "2025-02-05",
+    "portfolio_value": 1.3808600323050042,
+    "portfolio_return": -0.02350375970210408,
+    "btc_value": 1.6622040188943545,
+    "btc_return": -0.011873525485178726,
+    "equal_weight_value": 1.3160298981219138,
+    "equal_weight_return": -0.023256673750165196
+  },
+  {
+    "date": "2025-02-06",
+    "portfolio_value": 1.3219837169271116,
+    "portfolio_return": -0.04263742450392535,
+    "btc_value": 1.6610095760123413,
+    "btc_return": -0.0007185898171560012,
+    "equal_weight_value": 1.260496541165757,
+    "equal_weight_return": -0.04219764082518771
+  },
+  {
+    "date": "2025-02-07",
+    "portfolio_value": 1.3305700045578748,
+    "portfolio_return": 0.006495002563814935,
+    "btc_value": 1.660467054000551,
+    "btc_return": -0.0003266218447052216,
+    "equal_weight_value": 1.2684423233557411,
+    "equal_weight_return": 0.006303692180413011
+  },
+  {
+    "date": "2025-02-08",
+    "portfolio_value": 1.3726062189474622,
+    "portfolio_return": 0.03159263642318122,
+    "btc_value": 1.659484184382489,
+    "btc_return": -0.0005919235890251562,
+    "equal_weight_value": 1.3088381954478931,
+    "equal_weight_return": 0.031846833985547135
+  },
+  {
+    "date": "2025-02-09",
+    "portfolio_value": 1.3690759790693985,
+    "portfolio_return": -0.002571924729272075,
+    "btc_value": 1.6596563671769728,
+    "btc_return": 0.00010375681558416616,
+    "equal_weight_value": 1.3062451487509024,
+    "equal_weight_return": -0.0019811820177691904
+  },
+  {
+    "date": "2025-02-10",
+    "portfolio_value": 1.410654122544729,
+    "portfolio_return": 0.030369493082182678,
+    "btc_value": 1.676392844420204,
+    "btc_return": 0.010084302735330342,
+    "equal_weight_value": 1.3467259907091147,
+    "equal_weight_return": 0.03099023333937137
+  },
+  {
+    "date": "2025-02-11",
+    "portfolio_value": 1.4003750814929308,
+    "portfolio_return": -0.00728671960583479,
+    "btc_value": 1.6475373474113857,
+    "btc_return": -0.01721284906748588,
+    "equal_weight_value": 1.3364183161650274,
+    "equal_weight_return": -0.007653876597911248
+  },
+  {
+    "date": "2025-02-12",
+    "portfolio_value": 1.473559822253938,
+    "portfolio_return": 0.0522608133550801,
+    "btc_value": 1.6835488370436937,
+    "btc_return": 0.021857768316384085,
+    "equal_weight_value": 1.40612685202937,
+    "equal_weight_return": 0.052160715713907235
+  },
+  {
+    "date": "2025-02-13",
+    "portfolio_value": 1.440179997382267,
+    "portfolio_return": -0.02265250746360164,
+    "btc_value": 1.6621880218914702,
+    "btc_return": -0.012687968820514373,
+    "equal_weight_value": 1.374696298449351,
+    "equal_weight_return": -0.02235257333622313
+  },
+  {
+    "date": "2025-02-14",
+    "portfolio_value": 1.471193377886566,
+    "portfolio_return": 0.02153437803654419,
+    "btc_value": 1.677254962468109,
+    "btc_return": 0.009064522411546205,
+    "equal_weight_value": 1.4031829423122997,
+    "equal_weight_return": 0.02072213615114957
+  },
+  {
+    "date": "2025-02-15",
+    "portfolio_value": 1.4365213396627523,
+    "portfolio_return": -0.023567288124707125,
+    "btc_value": 1.6787600568254846,
+    "btc_return": 0.0008973557336571236,
+    "equal_weight_value": 1.371209712666845,
+    "equal_weight_return": -0.022786216024523628
+  },
+  {
+    "date": "2025-02-16",
+    "portfolio_value": 1.4297663142770003,
+    "portfolio_return": -0.00470234948778266,
+    "btc_value": 1.6535859346094146,
+    "btc_return": -0.014995664278356746,
+    "equal_weight_value": 1.3641316221136743,
+    "equal_weight_return": -0.005161931459342263
+  },
+  {
+    "date": "2025-02-17",
+    "portfolio_value": 1.4366360163837943,
+    "portfolio_return": 0.004804772666831231,
+    "btc_value": 1.647696629397092,
+    "btc_return": -0.0035615356233140716,
+    "equal_weight_value": 1.3717133972691256,
+    "equal_weight_return": 0.0055579498580230376
+  },
+  {
+    "date": "2025-02-18",
+    "portfolio_value": 1.3722790978323223,
+    "portfolio_return": -0.04479695470357694,
+    "btc_value": 1.6449506492461043,
+    "btc_return": -0.0016665568782479045,
+    "equal_weight_value": 1.3119386166525573,
+    "equal_weight_return": -0.04357672727814047
+  },
+  {
+    "date": "2025-02-19",
+    "portfolio_value": 1.4104201963355327,
+    "portfolio_return": 0.02779398051275343,
+    "btc_value": 1.6623292427448884,
+    "btc_return": 0.010564811477322245,
+    "equal_weight_value": 1.346703359041467,
+    "equal_weight_return": 0.026498756837886828
+  },
+  {
+    "date": "2025-02-20",
+    "portfolio_value": 1.4572111596070902,
+    "portfolio_return": 0.03317519374235221,
+    "btc_value": 1.6916514050098852,
+    "btc_return": 0.017639202578533242,
+    "equal_weight_value": 1.3922506792928502,
+    "equal_weight_return": 0.03382134598951476
+  },
+  {
+    "date": "2025-02-21",
+    "portfolio_value": 1.3997899979541775,
+    "portfolio_return": -0.03940483249414266,
+    "btc_value": 1.6538883295671596,
+    "btc_return": -0.022323201654246838,
+    "equal_weight_value": 1.3394683863361743,
+    "equal_weight_return": -0.03791148658909966
+  },
+  {
+    "date": "2025-02-22",
+    "portfolio_value": 1.4491295649400244,
+    "portfolio_return": 0.03524783507380239,
+    "btc_value": 1.6612880614711523,
+    "btc_return": 0.00447414240230426,
+    "equal_weight_value": 1.3853896917371222,
+    "equal_weight_return": 0.03428323196679236
+  },
+  {
+    "date": "2025-02-23",
+    "portfolio_value": 1.4358748966853092,
+    "portfolio_return": -0.009146641249613762,
+    "btc_value": 1.6560186831232846,
+    "btc_return": -0.00317186312842177,
+    "equal_weight_value": 1.3732316685436767,
+    "equal_weight_return": -0.008775886861263274
+  },
+  {
+    "date": "2025-02-24",
+    "portfolio_value": 1.2795036594282188,
+    "portfolio_return": -0.10890310682223829,
+    "btc_value": 1.5745345947228147,
+    "btc_return": -0.04920481225899542,
+    "equal_weight_value": 1.2240992531438137,
+    "equal_weight_return": -0.10859960399691272
+  },
+  {
+    "date": "2025-02-25",
+    "portfolio_value": 1.3015721530536875,
+    "portfolio_return": 0.017247698717274957,
+    "btc_value": 1.5241748255681666,
+    "btc_return": -0.03198390770417692,
+    "equal_weight_value": 1.2451541384538911,
+    "equal_weight_return": 0.017200308925932873
+  },
+  {
+    "date": "2025-02-26",
+    "portfolio_value": 1.295878620093387,
+    "portfolio_return": -0.004374350624314309,
+    "btc_value": 1.447098857521578,
+    "btc_return": -0.05056898116517383,
+    "equal_weight_value": 1.2404371359563824,
+    "equal_weight_return": -0.003788288013374691
+  },
+  {
+    "date": "2025-02-27",
+    "portfolio_value": 1.3001734593112428,
+    "portfolio_return": 0.0033142295514888166,
+    "btc_value": 1.4561975399361757,
+    "btc_return": 0.006287533410247459,
+    "equal_weight_value": 1.2450342071960794,
+    "equal_weight_return": 0.003706009040234622
+  },
+  {
+    "date": "2025-02-28",
+    "portfolio_value": 1.2906264038187265,
+    "portfolio_return": -0.0073429090742813145,
+    "btc_value": 1.4504391349302492,
+    "btc_return": -0.0039544119860130955,
+    "equal_weight_value": 1.2361192828812648,
+    "equal_weight_return": -0.0071603850426661874
+  },
+  {
+    "date": "2025-03-01",
+    "portfolio_value": 1.2877676181834903,
+    "portfolio_return": -0.0022150373080679986,
+    "btc_value": 1.4801627703644018,
+    "btc_return": 0.02049285262534095,
+    "equal_weight_value": 1.23175722837557,
+    "equal_weight_return": -0.003528829754623191
+  },
+  {
+    "date": "2025-03-02",
+    "portfolio_value": 1.4308574948758384,
+    "portfolio_return": 0.11111467214417847,
+    "btc_value": 1.621644736151801,
+    "btc_return": 0.09558541034819279,
+    "equal_weight_value": 1.3644402902268253,
+    "equal_weight_return": 0.10771851692418029
+  },
+  {
+    "date": "2025-03-03",
+    "portfolio_value": 1.2325068467091462,
+    "portfolio_return": -0.13862362176318874,
+    "btc_value": 1.482026851227359,
+    "btc_return": -0.08609646848776398,
+    "equal_weight_value": 1.1769071965433437,
+    "equal_weight_return": -0.13744323956624435
+  },
+  {
+    "date": "2025-03-04",
+    "portfolio_value": 1.219938573356215,
+    "portfolio_return": -0.010197325383213314,
+    "btc_value": 1.5008873176277189,
+    "btc_return": 0.01272613001899403,
+    "equal_weight_value": 1.1636137393523274,
+    "equal_weight_return": -0.011295246753575966
+  },
+  {
+    "date": "2025-03-05",
+    "portfolio_value": 1.2677261422615602,
+    "portfolio_return": 0.039172110751343116,
+    "btc_value": 1.558603471968867,
+    "btc_return": 0.03845468854542222,
+    "equal_weight_value": 1.2101840042269645,
+    "equal_weight_return": 0.040022099516080364
+  },
+  {
+    "date": "2025-03-06",
+    "portfolio_value": 1.243027891483404,
+    "portfolio_return": -0.019482323472556653,
+    "btc_value": 1.5469258318742543,
+    "btc_return": -0.007492373977494915,
+    "equal_weight_value": 1.18583916975493,
+    "equal_weight_return": -0.020116638781377195
+  },
+  {
+    "date": "2025-03-07",
+    "portfolio_value": 1.2180721412662328,
+    "portfolio_return": -0.020076581055144045,
+    "btc_value": 1.4924792585096769,
+    "btc_return": -0.03519662820460501,
+    "equal_weight_value": 1.1620281851638303,
+    "equal_weight_return": -0.020079438425044234
+  },
+  {
+    "date": "2025-03-08",
+    "portfolio_value": 1.2023443286455116,
+    "portfolio_return": -0.012912053471949203,
+    "btc_value": 1.4831629824536985,
+    "btc_return": -0.006242147757069216,
+    "equal_weight_value": 1.1481244915166102,
+    "equal_weight_return": -0.011965022728996674
+  },
+  {
+    "date": "2025-03-09",
+    "portfolio_value": 1.091633760100968,
+    "portfolio_return": -0.09207892107684615,
+    "btc_value": 1.3884547050023683,
+    "btc_return": -0.0638556103218324,
+    "equal_weight_value": 1.0425026256900478,
+    "equal_weight_return": -0.09199513346069445
+  },
+  {
+    "date": "2025-03-10",
+    "portfolio_value": 1.032895654922977,
+    "portfolio_return": -0.05380751981558178,
+    "btc_value": 1.3513445824945678,
+    "btc_return": -0.026727643598382422,
+    "equal_weight_value": 0.9861740795114249,
+    "equal_weight_return": -0.05403204250093685
+  },
+  {
+    "date": "2025-03-11",
+    "portfolio_value": 1.082245239978999,
+    "portfolio_return": 0.047777899752808946,
+    "btc_value": 1.4263043018692951,
+    "btc_return": 0.05547047018633289,
+    "equal_weight_value": 1.0320163894850138,
+    "equal_weight_return": 0.0464850079980813
+  },
+  {
+    "date": "2025-03-12",
+    "portfolio_value": 1.1044522341831708,
+    "portfolio_return": 0.020519373413555256,
+    "btc_value": 1.4391306299774569,
+    "btc_return": 0.008992700990491098,
+    "equal_weight_value": 1.0523400206312008,
+    "equal_weight_return": 0.019693128280965037
+  },
+  {
+    "date": "2025-03-13",
+    "portfolio_value": 1.0827383474712498,
+    "portfolio_return": -0.019660322139671484,
+    "btc_value": 1.3946880317820907,
+    "btc_return": -0.030881559512121903,
+    "equal_weight_value": 1.032012663485662,
+    "equal_weight_return": -0.019316339535719984
+  },
+  {
+    "date": "2025-03-14",
+    "portfolio_value": 1.1249138603829605,
+    "portfolio_return": 0.03895263616571096,
+    "btc_value": 1.444812662195421,
+    "btc_return": 0.035939672006278345,
+    "equal_weight_value": 1.0720993168801098,
+    "equal_weight_return": 0.038843179752323764
+  },
+  {
+    "date": "2025-03-15",
+    "portfolio_value": 1.153778305780062,
+    "portfolio_return": 0.025659249488911778,
+    "btc_value": 1.4510127908938895,
+    "btc_return": 0.0042913028524038666,
+    "equal_weight_value": 1.1004055601083291,
+    "equal_weight_return": 0.02640263153099699
+  },
+  {
+    "date": "2025-03-16",
+    "portfolio_value": 1.1054314862692656,
+    "portfolio_return": -0.04190304087760549,
+    "btc_value": 1.4203338075670666,
+    "btc_return": -0.02114315154170565,
+    "equal_weight_value": 1.054200864875623,
+    "equal_weight_return": -0.04198878750499729
+  },
+  {
+    "date": "2025-03-17",
+    "portfolio_value": 1.1572694215863617,
+    "portfolio_return": 0.04689384729943294,
+    "btc_value": 1.4453226741690917,
+    "btc_return": 0.017593657539440866,
+    "equal_weight_value": 1.1046315830019993,
+    "equal_weight_return": 0.047837864496844455
+  },
+  {
+    "date": "2025-03-18",
+    "portfolio_value": 1.1471431334908155,
+    "portfolio_return": -0.008750156105969813,
+    "btc_value": 1.4228171272513443,
+    "btc_return": -0.015571295822011222,
+    "equal_weight_value": 1.0956079772434568,
+    "equal_weight_return": -0.008168882636887425
+  },
+  {
+    "date": "2025-03-19",
+    "portfolio_value": 1.1987542940607951,
+    "portfolio_return": 0.04499103822634946,
+    "btc_value": 1.4944038871684973,
+    "btc_return": 0.050313394846073445,
+    "equal_weight_value": 1.1445115133208992,
+    "equal_weight_return": 0.04463598028966826
+  },
+  {
+    "date": "2025-03-20",
+    "portfolio_value": 1.1657523563019188,
+    "portfolio_return": -0.02753019357042872,
+    "btc_value": 1.4479577073645928,
+    "btc_return": -0.03108007159423798,
+    "equal_weight_value": 1.1128117672368703,
+    "equal_weight_return": -0.027697184095640374
+  },
+  {
+    "date": "2025-03-21",
+    "portfolio_value": 1.1465798953521307,
+    "portfolio_return": -0.016446426932910752,
+    "btc_value": 1.445930904300255,
+    "btc_return": -0.0013997667570185834,
+    "equal_weight_value": 1.0955933695495437,
+    "equal_weight_return": -0.015472875282475018
+  },
+  {
+    "date": "2025-03-22",
+    "portfolio_value": 1.1675856387452168,
+    "portfolio_return": 0.018320348610887535,
+    "btc_value": 1.4420935157266905,
+    "btc_return": -0.0026539225091267715,
+    "equal_weight_value": 1.117204347982211,
+    "equal_weight_return": 0.019725364385467768
+  },
+  {
+    "date": "2025-03-23",
+    "portfolio_value": 1.177315260165021,
+    "portfolio_return": 0.008333111591077979,
+    "btc_value": 1.480869562674626,
+    "btc_return": 0.026888718744703333,
+    "equal_weight_value": 1.1259843161379008,
+    "equal_weight_return": 0.007858873957613423
+  },
+  {
+    "date": "2025-03-24",
+    "portfolio_value": 1.2241093840701078,
+    "portfolio_return": 0.03974646850201196,
+    "btc_value": 1.505446635460473,
+    "btc_return": 0.01659637918511736,
+    "equal_weight_value": 1.1702061824701608,
+    "equal_weight_return": 0.03927396296596721
+  },
+  {
+    "date": "2025-03-25",
+    "portfolio_value": 1.2374659935924495,
+    "portfolio_return": 0.010911287582757943,
+    "btc_value": 1.504057132349744,
+    "btc_return": -0.0009229839690092501,
+    "equal_weight_value": 1.1820663348397933,
+    "equal_weight_return": 0.010135096316614144
+  },
+  {
+    "date": "2025-03-26",
+    "portfolio_value": 1.2222939993566533,
+    "portfolio_return": -0.012260534280825672,
+    "btc_value": 1.4951856761804139,
+    "btc_return": -0.005898350520415763,
+    "equal_weight_value": 1.165357266776073,
+    "equal_weight_return": -0.01413547410263137
+  },
+  {
+    "date": "2025-03-27",
+    "portfolio_value": 1.2210728866597909,
+    "portfolio_return": -0.0009990335365345818,
+    "btc_value": 1.5002589622348632,
+    "btc_return": 0.00339308096330182,
+    "equal_weight_value": 1.1655248606649706,
+    "equal_weight_return": 0.00014381331260015714
+  },
+  {
+    "date": "2025-03-28",
+    "portfolio_value": 1.1397773485573799,
+    "portfolio_return": -0.06657713801572684,
+    "btc_value": 1.4515475724204128,
+    "btc_return": -0.032468654439422484,
+    "equal_weight_value": 1.0875102460200805,
+    "equal_weight_return": -0.06693517854297869
+  },
+  {
+    "date": "2025-03-29",
+    "portfolio_value": 1.0911512617946864,
+    "portfolio_return": -0.04266279446967415,
+    "btc_value": 1.4212502810226204,
+    "btc_return": -0.020872406783935094,
+    "equal_weight_value": 1.0391647059205866,
+    "equal_weight_return": -0.04445525021619084
+  },
+  {
+    "date": "2025-03-30",
+    "portfolio_value": 1.087144343343817,
+    "portfolio_return": -0.0036721933898320428,
+    "btc_value": 1.4170164075926275,
+    "btc_return": -0.0029789780776308117,
+    "equal_weight_value": 1.0358336256555074,
+    "equal_weight_return": -0.0032055363756106465
+  },
+  {
+    "date": "2025-03-31",
+    "portfolio_value": 1.0833616225240552,
+    "portfolio_return": -0.003479501910599187,
+    "btc_value": 1.4197687521426121,
+    "btc_return": 0.0019423519270751477,
+    "equal_weight_value": 1.032172222428374,
+    "equal_weight_return": -0.0035347406537572013
+  },
+  {
+    "date": "2025-04-01",
+    "portfolio_value": 1.1034079205928178,
+    "portfolio_return": 0.01850379194904268,
+    "btc_value": 1.4651011621220587,
+    "btc_return": 0.03192943210718946,
+    "equal_weight_value": 1.0510837552435706,
+    "equal_weight_return": 0.018322071069403256
+  },
+  {
+    "date": "2025-04-02",
+    "portfolio_value": 1.0408618341684002,
+    "portfolio_return": -0.056684463884230665,
+    "btc_value": 1.418926931367184,
+    "btc_return": -0.03151606998113066,
+    "equal_weight_value": 0.9894017345157561,
+    "equal_weight_return": -0.05868421086340614
+  },
+  {
+    "date": "2025-04-03",
+    "portfolio_value": 1.0434356725505223,
+    "portfolio_return": 0.0024727954255124086,
+    "btc_value": 1.4304210359555887,
+    "btc_return": 0.00810056130045389,
+    "equal_weight_value": 0.9932510464159553,
+    "equal_weight_return": 0.0038905449282268336
+  },
+  {
+    "date": "2025-04-04",
+    "portfolio_value": 1.0487831458300045,
+    "portfolio_return": 0.0051248710583290105,
+    "btc_value": 1.442486044335094,
+    "btc_return": 0.008434585395652672,
+    "equal_weight_value": 0.9968491780903328,
+    "equal_weight_return": 0.0036225803006812683
+  },
+  {
+    "date": "2025-04-05",
+    "portfolio_value": 1.0445539980512697,
+    "portfolio_return": -0.004032433011104387,
+    "btc_value": 1.436348011529541,
+    "btc_return": -0.004255176561089091,
+    "equal_weight_value": 0.9911243144033353,
+    "equal_weight_return": -0.00574295872718147
+  },
+  {
+    "date": "2025-04-06",
+    "portfolio_value": 0.9317041523852325,
+    "portfolio_return": -0.1080363924474666,
+    "btc_value": 1.3479723110801285,
+    "btc_return": -0.06152805569403952,
+    "equal_weight_value": 0.884695901608685,
+    "equal_weight_return": -0.10738149720272067
+  },
+  {
+    "date": "2025-04-07",
+    "portfolio_value": 0.9520554061884499,
+    "portfolio_return": 0.021843042934945187,
+    "btc_value": 1.3613459775020238,
+    "btc_return": 0.009921321314960041,
+    "equal_weight_value": 0.9038261357599493,
+    "equal_weight_return": 0.021623513928886524
+  },
+  {
+    "date": "2025-04-08",
+    "portfolio_value": 0.9205922602171742,
+    "portfolio_return": -0.03304759971611125,
+    "btc_value": 1.3116699512125838,
+    "btc_return": -0.03649037578279124,
+    "equal_weight_value": 0.8724792927168605,
+    "equal_weight_return": -0.03468238171352709
+  },
+  {
+    "date": "2025-04-09",
+    "portfolio_value": 1.0293452527531748,
+    "portfolio_return": 0.11813372459849379,
+    "btc_value": 1.4205859753759706,
+    "btc_return": 0.08303615102465267,
+    "equal_weight_value": 0.9743920210575509,
+    "equal_weight_return": 0.11680819154267681
+  },
+  {
+    "date": "2025-04-10",
+    "portfolio_value": 0.9970246308707374,
+    "portfolio_return": -0.031399204296119226,
+    "btc_value": 1.3684311016826292,
+    "btc_return": -0.03671363409000172,
+    "equal_weight_value": 0.9435218138254513,
+    "equal_weight_return": -0.03168150658560881
+  },
+  {
+    "date": "2025-04-11",
+    "portfolio_value": 1.0362203586332344,
+    "portfolio_return": 0.039312697549172604,
+    "btc_value": 1.4343291209612539,
+    "btc_return": 0.04815589122287278,
+    "equal_weight_value": 0.980095946005067,
+    "equal_weight_return": 0.038763419821030085
+  },
+  {
+    "date": "2025-04-12",
+    "portfolio_value": 1.08144814110682,
+    "portfolio_return": 0.04364687693768206,
+    "btc_value": 1.4667724188964881,
+    "btc_return": 0.022619144700549265,
+    "equal_weight_value": 1.02302036066817,
+    "equal_weight_return": 0.04379613530498264
+  },
+  {
+    "date": "2025-04-13",
+    "portfolio_value": 1.0515583688399148,
+    "portfolio_return": -0.02763865517981682,
+    "btc_value": 1.4402621169126362,
+    "btc_return": -0.01807390270114073,
+    "equal_weight_value": 0.9924748803224351,
+    "equal_weight_return": -0.02985813530219923
+  },
+  {
+    "date": "2025-04-14",
+    "portfolio_value": 1.0513230465060803,
+    "portfolio_return": -0.00022378437641465784,
+    "btc_value": 1.4547941039519676,
+    "btc_return": 0.010089821060129234,
+    "equal_weight_value": 0.9921444989710606,
+    "equal_weight_return": -0.0003328863610806594
+  },
+  {
+    "date": "2025-04-15",
+    "portfolio_value": 1.022014258539479,
+    "portfolio_return": -0.027878003877119327,
+    "btc_value": 1.438666716893818,
+    "btc_return": -0.011085683544041935,
+    "equal_weight_value": 0.9654509647206229,
+    "equal_weight_return": -0.02690488560700705
+  },
+  {
+    "date": "2025-04-16",
+    "portfolio_value": 1.0124863160480242,
+    "portfolio_return": -0.009322709944449038,
+    "btc_value": 1.4453962947845151,
+    "btc_return": 0.004677648972950976,
+    "equal_weight_value": 0.9567722173126012,
+    "equal_weight_return": -0.008989319732600835
+  },
+  {
+    "date": "2025-04-17",
+    "portfolio_value": 1.0345644149696673,
+    "portfolio_return": 0.02180582450518368,
+    "btc_value": 1.4611184244362674,
+    "btc_return": 0.010877383392003281,
+    "equal_weight_value": 0.976322532997427,
+    "equal_weight_return": 0.020433615578574232
+  },
+  {
+    "date": "2025-04-18",
+    "portfolio_value": 1.0518264979991923,
+    "portfolio_return": 0.01668536321156085,
+    "btc_value": 1.4528023910875048,
+    "btc_return": -0.005691553271577665,
+    "equal_weight_value": 0.9928088210592965,
+    "equal_weight_return": 0.016886108334767825
+  },
+  {
+    "date": "2025-04-19",
+    "portfolio_value": 1.0783970811560926,
+    "portfolio_return": 0.025261374577882943,
+    "btc_value": 1.4631502158133323,
+    "btc_return": 0.007122664988238103,
+    "equal_weight_value": 1.0197064643221185,
+    "equal_weight_return": 0.027092470062990714
+  },
+  {
+    "date": "2025-04-20",
+    "portfolio_value": 1.0918285024829795,
+    "portfolio_return": 0.01245498672204094,
+    "btc_value": 1.4649666496892049,
+    "btc_return": 0.001241454128387609,
+    "equal_weight_value": 1.0312260500328132,
+    "equal_weight_return": 0.011296962521810247
+  },
+  {
+    "date": "2025-04-21",
+    "portfolio_value": 1.0970684872128296,
+    "portfolio_return": 0.0047992745361872605,
+    "btc_value": 1.5053621781656763,
+    "btc_return": 0.027574367297058533,
+    "equal_weight_value": 1.0356523824741533,
+    "equal_weight_return": 0.004292300840537646
+  },
+  {
+    "date": "2025-04-22",
+    "portfolio_value": 1.1849714797672675,
+    "portfolio_return": 0.08012534639269496,
+    "btc_value": 1.6080135695867073,
+    "btc_return": 0.06819049455999648,
+    "equal_weight_value": 1.1177878102508427,
+    "equal_weight_return": 0.07930791177293457
+  },
+  {
+    "date": "2025-04-23",
+    "portfolio_value": 1.2014473012520337,
+    "portfolio_return": 0.01390398145953866,
+    "btc_value": 1.6122438307902427,
+    "btc_return": 0.0026307372546754415,
+    "equal_weight_value": 1.133387418325409,
+    "equal_weight_return": 0.013955786537934797
+  },
+  {
+    "date": "2025-04-24",
+    "portfolio_value": 1.2276580806641504,
+    "portfolio_return": 0.02181600423489419,
+    "btc_value": 1.6172880470222468,
+    "btc_return": 0.0031286931515388527,
+    "equal_weight_value": 1.1582109754370775,
+    "equal_weight_return": 0.021902093415105725
+  },
+  {
+    "date": "2025-04-25",
+    "portfolio_value": 1.2437274500295803,
+    "portfolio_return": 0.013089450245573534,
+    "btc_value": 1.629135461760372,
+    "btc_return": 0.007325482161287589,
+    "equal_weight_value": 1.1746795373970063,
+    "equal_weight_return": 0.014218965550481001
+  },
+  {
+    "date": "2025-04-26",
+    "portfolio_value": 1.2652651012962528,
+    "portfolio_return": 0.01731701850446439,
+    "btc_value": 1.628317034451527,
+    "btc_return": -0.0005023690957906002,
+    "equal_weight_value": 1.193923494070036,
+    "equal_weight_return": 0.016382303479698598
+  },
+  {
+    "date": "2025-04-27",
+    "portfolio_value": 1.2211997954475458,
+    "portfolio_return": -0.03482693532253645,
+    "btc_value": 1.6130730947784608,
+    "btc_return": -0.009361776208526074,
+    "equal_weight_value": 1.1515846056264019,
+    "equal_weight_return": -0.03546197780169547
+  },
+  {
+    "date": "2025-04-28",
+    "portfolio_value": 1.2390976035608645,
+    "portfolio_return": 0.01465592131610179,
+    "btc_value": 1.6347055149581466,
+    "btc_return": 0.013410688114326774,
+    "equal_weight_value": 1.1697961429516859,
+    "equal_weight_return": 0.015814328566313138
+  },
+  {
+    "date": "2025-04-29",
+    "portfolio_value": 1.2226098383518342,
+    "portfolio_return": -0.01330626833725476,
+    "btc_value": 1.6216172144264098,
+    "btc_return": -0.00800651885735637,
+    "equal_weight_value": 1.1525417143378913,
+    "equal_weight_return": -0.014749944866682069
+  },
+  {
+    "date": "2025-04-30",
+    "portfolio_value": 1.2193696600916102,
+    "portfolio_return": -0.002650214449927833,
+    "btc_value": 1.620103175508282,
+    "btc_return": -0.0009336598703186816,
+    "equal_weight_value": 1.1497203816919614,
+    "equal_weight_return": -0.0024479223709056954
+  },
+  {
+    "date": "2025-05-01",
+    "portfolio_value": 1.2455912455945015,
+    "portfolio_return": 0.021504213497424023,
+    "btc_value": 1.6602362155288268,
+    "btc_return": 0.024771903806653395,
+    "equal_weight_value": 1.1748211126341077,
+    "equal_weight_return": 0.021832030937128627
+  },
+  {
+    "date": "2025-05-02",
+    "portfolio_value": 1.247408064107597,
+    "portfolio_return": 0.0014585992953318088,
+    "btc_value": 1.6672157250882402,
+    "btc_return": 0.004203925618614601,
+    "equal_weight_value": 1.176790854276542,
+    "equal_weight_return": 0.001676631123880449
+  },
+  {
+    "date": "2025-05-03",
+    "portfolio_value": 1.1964663842645156,
+    "portfolio_return": -0.0408380235055844,
+    "btc_value": 1.6496374270695808,
+    "btc_return": -0.010543505410932408,
+    "equal_weight_value": 1.1281897774401375,
+    "equal_weight_return": -0.04129967246073066
+  },
+  {
+    "date": "2025-05-04",
+    "portfolio_value": 1.1693376431532663,
+    "portfolio_return": -0.022674052082061386,
+    "btc_value": 1.6236801397553244,
+    "btc_return": -0.015735146940965672,
+    "equal_weight_value": 1.102280109225264,
+    "equal_weight_return": -0.02296570021549252
+  },
+  {
+    "date": "2025-05-05",
+    "portfolio_value": 1.1641412267047369,
+    "portfolio_return": -0.004443897345608911,
+    "btc_value": 1.6301109349147347,
+    "btc_return": 0.003960629314822661,
+    "equal_weight_value": 1.0988046365902018,
+    "equal_weight_return": -0.003152984986279861
+  },
+  {
+    "date": "2025-05-06",
+    "portfolio_value": 1.1661730471559146,
+    "portfolio_return": 0.001745338455995689,
+    "btc_value": 1.6656813888976356,
+    "btc_return": 0.02182087931626664,
+    "equal_weight_value": 1.0990682254984847,
+    "equal_weight_return": 0.00023988696398370007
+  },
+  {
+    "date": "2025-05-07",
+    "portfolio_value": 1.167186608145774,
+    "portfolio_return": 0.0008691342955758485,
+    "btc_value": 1.669403702256905,
+    "btc_return": 0.0022347091010801456,
+    "equal_weight_value": 1.1007047368560765,
+    "equal_weight_return": 0.0014889988807104172
+  },
+  {
+    "date": "2025-05-08",
+    "portfolio_value": 1.325081731829585,
+    "portfolio_return": 0.1352783887185338,
+    "btc_value": 1.7761661514083673,
+    "btc_return": 0.06395244541936007,
+    "equal_weight_value": 1.246931678255435,
+    "equal_weight_return": 0.1328484710777423
+  },
+  {
+    "date": "2025-05-09",
+    "portfolio_value": 1.3831677438921617,
+    "portfolio_return": 0.04383579568512731,
+    "btc_value": 1.7714066130233868,
+    "btc_return": -0.002679669568754317,
+    "equal_weight_value": 1.303107381684471,
+    "equal_weight_return": 0.04505114787654648
+  },
+  {
+    "date": "2025-05-10",
+    "portfolio_value": 1.5058243133644016,
+    "portfolio_return": 0.08867801466154103,
+    "btc_value": 1.802915204359995,
+    "btc_return": 0.017787328502082422,
+    "equal_weight_value": 1.4166500494071044,
+    "equal_weight_return": 0.08713224199210785
+  },
+  {
+    "date": "2025-05-11",
+    "portfolio_value": 1.454485559282335,
+    "portfolio_return": -0.034093455409391335,
+    "btc_value": 1.7910454282199892,
+    "btc_return": -0.006583657462814085,
+    "equal_weight_value": 1.3690451476761603,
+    "equal_weight_return": -0.03360385421287896
+  },
+  {
+    "date": "2025-05-12",
+    "portfolio_value": 1.464401986943278,
+    "portfolio_return": 0.006817824761241431,
+    "btc_value": 1.7683128270677577,
+    "btc_return": -0.012692364355506025,
+    "equal_weight_value": 1.3778448001871022,
+    "equal_weight_return": 0.006427583871780063
+  },
+  {
+    "date": "2025-05-13",
+    "portfolio_value": 1.511913355431167,
+    "portfolio_return": 0.032444211979704984,
+    "btc_value": 1.7912616457751,
+    "btc_return": 0.01297780480696753,
+    "equal_weight_value": 1.4235230695006535,
+    "equal_weight_return": 0.03315196987886334
+  },
+  {
+    "date": "2025-05-14",
+    "portfolio_value": 1.4543532598951543,
+    "portfolio_return": -0.03807102789934532,
+    "btc_value": 1.7810643304850098,
+    "btc_return": -0.0056928117196847206,
+    "equal_weight_value": 1.36884568236577,
+    "equal_weight_return": -0.038409905892191384
+  },
+  {
+    "date": "2025-05-15",
+    "portfolio_value": 1.3783458343168167,
+    "portfolio_return": -0.05226201066432584,
+    "btc_value": 1.785259329477887,
+    "btc_return": 0.0023553326632141935,
+    "equal_weight_value": 1.297126293735598,
+    "equal_weight_return": -0.05239406424997417
+  },
+  {
+    "date": "2025-05-16",
+    "portfolio_value": 1.3599984978664659,
+    "portfolio_return": -0.013311126999882954,
+    "btc_value": 1.7803047308641908,
+    "btc_return": -0.0027752822975837255,
+    "equal_weight_value": 1.2796602733615747,
+    "equal_weight_return": -0.013465165619087801
+  },
+  {
+    "date": "2025-05-17",
+    "portfolio_value": 1.3198081825091272,
+    "portfolio_return": -0.029551735108816837,
+    "btc_value": 1.7744515479164455,
+    "btc_return": -0.003287742174848951,
+    "equal_weight_value": 1.2415951262714076,
+    "equal_weight_return": -0.029746291170056217
+  },
+  {
+    "date": "2025-05-18",
+    "portfolio_value": 1.3763569070235708,
+    "portfolio_return": 0.042846169059913744,
+    "btc_value": 1.8317190981337037,
+    "btc_return": 0.03227338063104712,
+    "equal_weight_value": 1.2949286638690554,
+    "equal_weight_return": 0.04295565959397082
+  },
+  {
+    "date": "2025-05-19",
+    "portfolio_value": 1.3469211478995327,
+    "portfolio_return": -0.02138671951572086,
+    "btc_value": 1.8167467634881,
+    "btc_return": -0.008173925063541976,
+    "equal_weight_value": 1.2663673135306515,
+    "equal_weight_return": -0.022056311776331217
+  },
+  {
+    "date": "2025-05-20",
+    "portfolio_value": 1.354442892542993,
+    "portfolio_return": 0.005584398652579061,
+    "btc_value": 1.838380387743272,
+    "btc_return": 0.011907892002315235,
+    "equal_weight_value": 1.27468296486727,
+    "equal_weight_return": 0.006566539777021125
+  },
+  {
+    "date": "2025-05-21",
+    "portfolio_value": 1.3859120772888032,
+    "portfolio_return": 0.023234043250598854,
+    "btc_value": 1.8869558890385991,
+    "btc_return": 0.026422987113649876,
+    "equal_weight_value": 1.3044441253380645,
+    "equal_weight_return": 0.023347892214040423
+  },
+  {
+    "date": "2025-05-22",
+    "portfolio_value": 1.4566607272146381,
+    "portfolio_return": 0.05104844029084239,
+    "btc_value": 1.921740769772342,
+    "btc_return": 0.018434389980078292,
+    "equal_weight_value": 1.370746188106218,
+    "equal_weight_return": 0.050827828866161905
+  },
+  {
+    "date": "2025-05-23",
+    "portfolio_value": 1.3487936136815826,
+    "portfolio_return": -0.07405095196004506,
+    "btc_value": 1.8462417965907154,
+    "btc_return": -0.039286762485957305,
+    "equal_weight_value": 1.2695158688852013,
+    "equal_weight_return": -0.07385052032198125
+  },
+  {
+    "date": "2025-05-24",
+    "portfolio_value": 1.3483768947578274,
+    "portfolio_return": -0.0003089567740595624,
+    "btc_value": 1.8539229381368412,
+    "btc_return": 0.004160420135818521,
+    "equal_weight_value": 1.2691675931654325,
+    "equal_weight_return": -0.00027433742917657225
+  },
+  {
+    "date": "2025-05-25",
+    "portfolio_value": 1.3491121794906722,
+    "portfolio_return": 0.0005453109851581399,
+    "btc_value": 1.8756303550182203,
+    "btc_return": 0.011708910027940389,
+    "equal_weight_value": 1.2697631941614487,
+    "equal_weight_return": 0.0004692847494874042
+  },
+  {
+    "date": "2025-05-26",
+    "portfolio_value": 1.3460450076289194,
+    "portfolio_return": -0.002273474295451636,
+    "btc_value": 1.8828513677179486,
+    "btc_return": 0.00384991247364308,
+    "equal_weight_value": 1.266777376099269,
+    "equal_weight_return": -0.0023514763035414137
+  },
+  {
+    "date": "2025-05-27",
+    "portfolio_value": 1.3716211545891805,
+    "portfolio_return": 0.019000959711825645,
+    "btc_value": 1.8745038563957686,
+    "btc_return": -0.004433441462932564,
+    "equal_weight_value": 1.292061822109766,
+    "equal_weight_return": 0.01995966022724076
+  },
+  {
+    "date": "2025-05-28",
+    "portfolio_value": 1.3674883150294055,
+    "portfolio_return": -0.00301310572963049,
+    "btc_value": 1.8546393630509517,
+    "btc_return": -0.010597200574989252,
+    "equal_weight_value": 1.2891270813433569,
+    "equal_weight_return": -0.0022713624968944157
+  },
+  {
+    "date": "2025-05-29",
+    "portfolio_value": 1.3219520376502074,
+    "portfolio_return": -0.03329920766322529,
+    "btc_value": 1.816206477616498,
+    "btc_return": -0.020722565367765178,
+    "equal_weight_value": 1.2461618626061048,
+    "equal_weight_return": -0.03332892416818931
+  },
+  {
+    "date": "2025-05-30",
+    "portfolio_value": 1.2275709780110657,
+    "portfolio_return": -0.07139522233114128,
+    "btc_value": 1.7895876368281312,
+    "btc_return": -0.014656285569083494,
+    "equal_weight_value": 1.1580891903647503,
+    "equal_weight_return": -0.07067514653126007
+  },
+  {
+    "date": "2025-05-31",
+    "portfolio_value": 1.242162875719306,
+    "portfolio_return": 0.011886805707872247,
+    "btc_value": 1.8001728364354648,
+    "btc_return": 0.0059148819479413195,
+    "equal_weight_value": 1.1724103168931774,
+    "equal_weight_return": 0.012366168899233648
+  },
+  {
+    "date": "2025-06-01",
+    "portfolio_value": 1.2582735159588236,
+    "portfolio_return": 0.012969829121795675,
+    "btc_value": 1.8181916540711804,
+    "btc_return": 0.010009493128112501,
+    "equal_weight_value": 1.1873658736983672,
+    "equal_weight_return": 0.0127562480385034
+  },
+  {
+    "date": "2025-06-02",
+    "portfolio_value": 1.2791057003558794,
+    "portfolio_return": 0.016556165358992903,
+    "btc_value": 1.8217453968624233,
+    "btc_return": 0.001954547961589004,
+    "equal_weight_value": 1.2075724617711927,
+    "equal_weight_return": 0.017017996323144154
+  },
+  {
+    "date": "2025-06-03",
+    "portfolio_value": 1.281425738177642,
+    "portfolio_return": 0.0018137967965563685,
+    "btc_value": 1.813813463593663,
+    "btc_return": -0.00435402953805808,
+    "equal_weight_value": 1.2106397355372946,
+    "equal_weight_return": 0.0025400328868074216
+  },
+  {
+    "date": "2025-06-04",
+    "portfolio_value": 1.2565046970339473,
+    "portfolio_return": -0.01944790119413054,
+    "btc_value": 1.8017441549445652,
+    "btc_return": -0.006654106881082034,
+    "equal_weight_value": 1.1880594835510354,
+    "equal_weight_return": -0.018651504096086773
+  },
+  {
+    "date": "2025-06-05",
+    "portfolio_value": 1.1819962674323363,
+    "portfolio_return": -0.05929817037492366,
+    "btc_value": 1.7472960334829344,
+    "btc_return": -0.030219674259637563,
+    "equal_weight_value": 1.1171712458865666,
+    "equal_weight_return": -0.05966724616564515
+  },
+  {
+    "date": "2025-06-06",
+    "portfolio_value": 1.2073027322564325,
+    "portfolio_return": 0.021409936326676846,
+    "btc_value": 1.7956642617839031,
+    "btc_return": 0.02768175934363848,
+    "equal_weight_value": 1.1401686782811025,
+    "equal_weight_return": 0.020585413811188547
+  },
+  {
+    "date": "2025-06-07",
+    "portfolio_value": 1.2453735039039746,
+    "portfolio_return": 0.03153374098341374,
+    "btc_value": 1.8168678590798248,
+    "btc_return": 0.011808219246317808,
+    "equal_weight_value": 1.176596853668903,
+    "equal_weight_return": 0.031949812410843416
+  },
+  {
+    "date": "2025-06-08",
+    "portfolio_value": 1.2425707340049221,
+    "portfolio_return": -0.0022505456317052047,
+    "btc_value": 1.8195176852027242,
+    "btc_return": 0.0014584583626469083,
+    "equal_weight_value": 1.1737860588895965,
+    "equal_weight_return": -0.00238891917018298
+  },
+  {
+    "date": "2025-06-09",
+    "portfolio_value": 1.3061836308015398,
+    "portfolio_return": 0.05119458800674269,
+    "btc_value": 1.8973154104977186,
+    "btc_return": 0.042757333950467435,
+    "equal_weight_value": 1.2343112604427935,
+    "equal_weight_return": 0.05156408281970385
+  },
+  {
+    "date": "2025-06-10",
+    "portfolio_value": 1.357962117723949,
+    "portfolio_return": 0.0396410471708601,
+    "btc_value": 1.8972135801137682,
+    "btc_return": -5.367077260165498e-05,
+    "equal_weight_value": 1.2843581903805035,
+    "equal_weight_return": 0.04054644200503869
+  },
+  {
+    "date": "2025-06-11",
+    "portfolio_value": 1.3095264272720721,
+    "portfolio_return": -0.03566792462006145,
+    "btc_value": 1.8693578097798145,
+    "btc_return": -0.014682464128410566,
+    "equal_weight_value": 1.2385238869367194,
+    "equal_weight_return": -0.03568654273166988
+  },
+  {
+    "date": "2025-06-12",
+    "portfolio_value": 1.2316829114013077,
+    "portfolio_return": -0.059444020563161434,
+    "btc_value": 1.8186018997903053,
+    "btc_return": -0.02715152215588279,
+    "equal_weight_value": 1.1645292850256797,
+    "equal_weight_return": -0.059744186358854125
+  },
+  {
+    "date": "2025-06-13",
+    "portfolio_value": 1.2054964516813962,
+    "portfolio_return": -0.021260715300595298,
+    "btc_value": 1.8253970137895923,
+    "btc_return": 0.003736449412084397,
+    "equal_weight_value": 1.139887806889934,
+    "equal_weight_return": -0.02116003303017164
+  },
+  {
+    "date": "2025-06-14",
+    "portfolio_value": 1.1856726613379223,
+    "portfolio_return": -0.016444503271514498,
+    "btc_value": 1.8143891836867074,
+    "btc_return": -0.0060303758687717535,
+    "equal_weight_value": 1.1211387966111357,
+    "equal_weight_return": -0.016448118986335265
+  },
+  {
+    "date": "2025-06-15",
+    "portfolio_value": 1.1904365643776544,
+    "portfolio_return": 0.0040178905992118265,
+    "btc_value": 1.8168678590798253,
+    "btc_return": 0.0013661211251718708,
+    "equal_weight_value": 1.1255348069562792,
+    "equal_weight_return": 0.003921022409028558
+  },
+  {
+    "date": "2025-06-16",
+    "portfolio_value": 1.1942162238231468,
+    "portfolio_return": 0.0031750196176713063,
+    "btc_value": 1.838027937647471,
+    "btc_return": 0.011646459846762047,
+    "equal_weight_value": 1.130026316734713,
+    "equal_weight_return": 0.003990556090024497
+  },
+  {
+    "date": "2025-06-17",
+    "portfolio_value": 1.1493456848488581,
+    "portfolio_return": -0.03757321168409594,
+    "btc_value": 1.7992100920790965,
+    "btc_return": -0.021119290285684267,
+    "equal_weight_value": 1.0873428427426666,
+    "equal_weight_return": -0.03777210615358348
+  },
+  {
+    "date": "2025-06-18",
+    "portfolio_value": 1.1565191507746257,
+    "portfolio_return": 0.006241347594836888,
+    "btc_value": 1.8048725150677187,
+    "btc_return": 0.0031471716469080313,
+    "equal_weight_value": 1.0936524266467325,
+    "equal_weight_return": 0.00580275480376615
+  },
+  {
+    "date": "2025-06-19",
+    "portfolio_value": 1.150696112450816,
+    "portfolio_return": -0.0050349692176819135,
+    "btc_value": 1.8009480890376022,
+    "btc_return": -0.0021743508183287297,
+    "equal_weight_value": 1.088049032431127,
+    "equal_weight_return": -0.0051235603552640535
+  },
+  {
+    "date": "2025-06-20",
+    "portfolio_value": 1.1162835294821662,
+    "portfolio_return": -0.029905882705517955,
+    "btc_value": 1.7771003419746432,
+    "btc_return": -0.01324177371247992,
+    "equal_weight_value": 1.0553348067469097,
+    "equal_weight_return": -0.03006686712557501
+  },
+  {
+    "date": "2025-06-21",
+    "portfolio_value": 1.0716558581468871,
+    "portfolio_return": -0.03997879584945732,
+    "btc_value": 1.7573598684048741,
+    "btc_return": -0.01110824926623688,
+    "equal_weight_value": 1.0128031614421809,
+    "equal_weight_return": -0.0403015659417445
+  },
+  {
+    "date": "2025-06-22",
+    "portfolio_value": 1.038123235439044,
+    "portfolio_return": -0.03129047674486462,
+    "btc_value": 1.737574155998992,
+    "btc_return": -0.011258771047185312,
+    "equal_weight_value": 0.9814608260127309,
+    "equal_weight_return": -0.03094612716731655
+  },
+  {
+    "date": "2025-06-23",
+    "portfolio_value": 1.1435742696661153,
+    "portfolio_return": 0.10157853193843011,
+    "btc_value": 1.8134018417882698,
+    "btc_return": 0.04363997100640682,
+    "equal_weight_value": 1.0809755025381256,
+    "equal_weight_return": 0.10139444579737496
+  },
+  {
+    "date": "2025-06-24",
+    "portfolio_value": 1.1615523329661834,
+    "portfolio_return": 0.01572094071801475,
+    "btc_value": 1.825606350913356,
+    "btc_return": 0.006730173557699004,
+    "equal_weight_value": 1.0975429448347873,
+    "equal_weight_return": 0.015326380901104055
+  },
+  {
+    "date": "2025-06-25",
+    "portfolio_value": 1.1340800279076217,
+    "portfolio_return": -0.023651370910174562,
+    "btc_value": 1.8473937528091555,
+    "btc_return": 0.011934337260000927,
+    "equal_weight_value": 1.0716771131941205,
+    "equal_weight_return": -0.023567033766100542
+  },
+  {
+    "date": "2025-06-26",
+    "portfolio_value": 1.1095545150761499,
+    "portfolio_return": -0.021625910189708202,
+    "btc_value": 1.8407247227143206,
+    "btc_return": -0.0036099667895346244,
+    "equal_weight_value": 1.0494582632893819,
+    "equal_weight_return": -0.020732783812575505
+  },
+  {
+    "date": "2025-06-27",
+    "portfolio_value": 1.12576693194509,
+    "portfolio_return": 0.014611645168085845,
+    "btc_value": 1.8423242509919473,
+    "btc_return": 0.0008689665857630757,
+    "equal_weight_value": 1.0648993369510587,
+    "equal_weight_return": 0.014713375654672524
+  },
+  {
+    "date": "2025-06-28",
+    "portfolio_value": 1.1461053044185432,
+    "portfolio_return": 0.018066237243540898,
+    "btc_value": 1.8464745271810623,
+    "btc_return": 0.0022527392704516647,
+    "equal_weight_value": 1.0837244050244434,
+    "equal_weight_return": 0.017677791149051936
+  },
+  {
+    "date": "2025-06-29",
+    "portfolio_value": 1.1884612204495089,
+    "portfolio_return": 0.03695639123880877,
+    "btc_value": 1.8644570505414166,
+    "btc_return": 0.009738841828382805,
+    "equal_weight_value": 1.1239522930100425,
+    "equal_weight_return": 0.037120035129864726
+  },
+  {
+    "date": "2025-06-30",
+    "portfolio_value": 1.152987233606162,
+    "portfolio_return": -0.029848670055830417,
+    "btc_value": 1.843436472719352,
+    "btc_return": -0.01127436956295702,
+    "equal_weight_value": 1.090102465648121,
+    "equal_weight_return": -0.03011678304536283
+  },
+  {
+    "date": "2025-07-01",
+    "portfolio_value": 1.1056948335379682,
+    "portfolio_return": -0.04101727988806853,
+    "btc_value": 1.8185699057845375,
+    "btc_return": -0.013489245386434479,
+    "equal_weight_value": 1.0449121390779637,
+    "equal_weight_return": -0.041455118206057434
+  },
+  {
+    "date": "2025-07-02",
+    "portfolio_value": 1.1752957112434483,
+    "portfolio_return": 0.06294763762508812,
+    "btc_value": 1.8729672840649767,
+    "btc_return": 0.02991217335523433,
+    "equal_weight_value": 1.1113185079129064,
+    "equal_weight_return": 0.06355210773370878
+  },
+  {
+    "date": "2025-07-03",
+    "portfolio_value": 1.1809608475186246,
+    "portfolio_return": 0.0048201794841764576,
+    "btc_value": 1.8859085153766502,
+    "btc_return": 0.00690948070571018,
+    "equal_weight_value": 1.116130756732197,
+    "equal_weight_return": 0.00433021567176806
+  },
+  {
+    "date": "2025-07-04",
+    "portfolio_value": 1.1286218666005623,
+    "portfolio_return": -0.04431898062330713,
+    "btc_value": 1.8581931058421957,
+    "btc_return": -0.014696051960356726,
+    "equal_weight_value": 1.0661595876549887,
+    "equal_weight_return": -0.044771787513062995
+  },
+  {
+    "date": "2025-07-05",
+    "portfolio_value": 1.1293758807138103,
+    "portfolio_return": 0.0006680839132765643,
+    "btc_value": 1.8619222996328126,
+    "btc_return": 0.002006892490824752,
+    "equal_weight_value": 1.0667452186816853,
+    "equal_weight_return": 0.0005492902127199722
+  },
+  {
+    "date": "2025-07-06",
+    "portfolio_value": 1.1488599282203342,
+    "portfolio_return": 0.01725204853339791,
+    "btc_value": 1.878941390593663,
+    "btc_return": 0.009140602142316379,
+    "equal_weight_value": 1.0847203527653295,
+    "equal_weight_return": 0.01685044729411455
+  },
+  {
+    "date": "2025-07-07",
+    "portfolio_value": 1.1389239534728608,
+    "portfolio_return": -0.008648551928227695,
+    "btc_value": 1.8624839148415933,
+    "btc_return": -0.00875890851862593,
+    "equal_weight_value": 1.0754259663511438,
+    "equal_weight_return": -0.008568463190066575
+  },
+  {
+    "date": "2025-07-08",
+    "portfolio_value": 1.1607596279317658,
+    "portfolio_return": 0.019172197048207374,
+    "btc_value": 1.8741443538578362,
+    "btc_return": 0.006260692467368045,
+    "equal_weight_value": 1.0954328267083921,
+    "equal_weight_return": 0.018603661231214666
+  },
+  {
+    "date": "2025-07-09",
+    "portfolio_value": 1.2154778746028252,
+    "portfolio_return": 0.04714003257380329,
+    "btc_value": 1.9143372536311087,
+    "btc_return": 0.021445999978890296,
+    "equal_weight_value": 1.1459939204787857,
+    "equal_weight_return": 0.0461562704144279
+  },
+  {
+    "date": "2025-07-10",
+    "portfolio_value": 1.2953424873784352,
+    "portfolio_return": 0.06570634846126411,
+    "btc_value": 1.9957265640897603,
+    "btc_return": 0.04251565929894152,
+    "equal_weight_value": 1.2193646070909114,
+    "equal_weight_return": 0.06402362639190279
+  },
+  {
+    "date": "2025-07-11",
+    "portfolio_value": 1.3077267549079934,
+    "portfolio_return": 0.00956061246367523,
+    "btc_value": 2.022398212188723,
+    "btc_return": 0.013364379960101092,
+    "equal_weight_value": 1.229399202095455,
+    "equal_weight_return": 0.00822936383932251
+  },
+  {
+    "date": "2025-07-12",
+    "portfolio_value": 1.298255760040913,
+    "portfolio_return": -0.007242334709093393,
+    "btc_value": 2.0205790261403114,
+    "btc_return": -0.0008995192131043828,
+    "equal_weight_value": 1.2201537587459093,
+    "equal_weight_return": -0.007520293923883426
+  },
+  {
+    "date": "2025-07-13",
+    "portfolio_value": 1.3405110409938754,
+    "portfolio_return": 0.032547732314032345,
+    "btc_value": 2.049124215695335,
+    "btc_return": 0.014127232434729464,
+    "equal_weight_value": 1.2572151196318808,
+    "equal_weight_return": 0.030374336529573012
+  },
+  {
+    "date": "2025-07-14",
+    "portfolio_value": 1.346860154211366,
+    "portfolio_return": 0.004736337876622922,
+    "btc_value": 2.061876235144938,
+    "btc_return": 0.006223155898470445,
+    "equal_weight_value": 1.2625626228097684,
+    "equal_weight_return": 0.004253451214819286
+  },
+  {
+    "date": "2025-07-15",
+    "portfolio_value": 1.3820896470164798,
+    "portfolio_return": 0.026156756286061445,
+    "btc_value": 2.0259068881546365,
+    "btc_return": -0.01744495929348211,
+    "equal_weight_value": 1.2961571085939634,
+    "equal_weight_return": 0.0266081738658097
+  },
+  {
+    "date": "2025-07-16",
+    "portfolio_value": 1.414461300800708,
+    "portfolio_return": 0.023422253291679702,
+    "btc_value": 2.0417743669186152,
+    "btc_return": 0.00783228432498806,
+    "equal_weight_value": 1.3257637353176035,
+    "equal_weight_return": 0.022841850364695947
+  },
+  {
+    "date": "2025-07-17",
+    "portfolio_value": 1.4497041882172266,
+    "portfolio_return": 0.024916119936662737,
+    "btc_value": 2.0517917589289554,
+    "btc_return": 0.004906218910690985,
+    "equal_weight_value": 1.3560433638073566,
+    "equal_weight_return": 0.022839385090360015
+  },
+  {
+    "date": "2025-07-18",
+    "portfolio_value": 1.4528757738246685,
+    "portfolio_return": 0.0021877467370375403,
+    "btc_value": 2.0301730996119653,
+    "btc_return": -0.010536478286799933,
+    "equal_weight_value": 1.3602462807947755,
+    "equal_weight_return": 0.0030993971871360743
+  },
+  {
+    "date": "2025-07-19",
+    "portfolio_value": 1.4873596222863013,
+    "portfolio_return": 0.023734891229450914,
+    "btc_value": 2.0282353981335843,
+    "btc_return": -0.0009544513611924321,
+    "equal_weight_value": 1.3928713017187593,
+    "equal_weight_return": 0.023984642622894306
+  },
+  {
+    "date": "2025-07-20",
+    "portfolio_value": 1.5394935910394365,
+    "portfolio_return": 0.03505135407198792,
+    "btc_value": 2.018178615653777,
+    "btc_return": -0.004958390179493843,
+    "equal_weight_value": 1.441260063306069,
+    "equal_weight_return": 0.034740296197932626
+  },
+  {
+    "date": "2025-07-21",
+    "portfolio_value": 1.5609478400183157,
+    "portfolio_return": 0.013935913149462154,
+    "btc_value": 2.0201247456605596,
+    "btc_return": 0.0009643001821977304,
+    "equal_weight_value": 1.4621360965489638,
+    "equal_weight_return": 0.014484570671449606
+  },
+  {
+    "date": "2025-07-22",
+    "portfolio_value": 1.5628322422835337,
+    "portfolio_return": 0.0012072166775258782,
+    "btc_value": 2.0645336297423205,
+    "btc_return": 0.021983238499085678,
+    "equal_weight_value": 1.4631327845249706,
+    "equal_weight_return": 0.0006816656659796872
+  },
+  {
+    "date": "2025-07-23",
+    "portfolio_value": 1.4446252955340522,
+    "portfolio_return": -0.07563636297697787,
+    "btc_value": 2.0436391358247077,
+    "btc_return": -0.01012068469924643,
+    "equal_weight_value": 1.3543968420470756,
+    "equal_weight_return": -0.07431720731566951
+  },
+  {
+    "date": "2025-07-24",
+    "portfolio_value": 1.4162641194806078,
+    "portfolio_return": -0.019632202302646007,
+    "btc_value": 2.0365617521293693,
+    "btc_return": -0.0034631278934098564,
+    "equal_weight_value": 1.3273852845786094,
+    "equal_weight_return": -0.019943606356642128
+  },
+  {
+    "date": "2025-07-25",
+    "portfolio_value": 1.449180596162538,
+    "portfolio_return": 0.023241764180258626,
+    "btc_value": 2.023605555879514,
+    "btc_return": -0.006361798868268376,
+    "equal_weight_value": 1.3579194269518673,
+    "equal_weight_return": 0.023003225007840297
+  },
+  {
+    "date": "2025-07-26",
+    "portfolio_value": 1.4669682321720119,
+    "portfolio_return": 0.012274271444550063,
+    "btc_value": 2.029233060679045,
+    "btc_return": 0.002780929704003121,
+    "equal_weight_value": 1.3738195471733496,
+    "equal_weight_return": 0.011709177957026145
+  },
+  {
+    "date": "2025-07-27",
+    "portfolio_value": 1.5115281485762702,
+    "portfolio_return": 0.0303755155885565,
+    "btc_value": 2.0549906434734253,
+    "btc_return": 0.012693259977619942,
+    "equal_weight_value": 1.4169488601648708,
+    "equal_weight_return": 0.031393724947545144
+  },
+  {
+    "date": "2025-07-28",
+    "portfolio_value": 1.4303047454856834,
+    "portfolio_return": -0.05373595137284885,
+    "btc_value": 2.0307579362765455,
+    "btc_return": -0.011792125318838775,
+    "equal_weight_value": 1.3409874248523552,
+    "equal_weight_return": -0.05360915799295463
+  },
+  {
+    "date": "2025-07-29",
+    "portfolio_value": 1.4187233100990455,
+    "portfolio_return": -0.008097180284964508,
+    "btc_value": 2.0287314772337752,
+    "btc_return": -0.0009978831088484075,
+    "equal_weight_value": 1.329409855728148,
+    "equal_weight_return": -0.008633614983736406
+  },
+  {
+    "date": "2025-07-30",
+    "portfolio_value": 1.3960460449650192,
+    "portfolio_return": -0.015984276125302538,
+    "btc_value": 2.027203849463735,
+    "btc_return": -0.0007529965336383615,
+    "equal_weight_value": 1.308351053333738,
+    "equal_weight_return": -0.015840714813172143
+  },
+  {
+    "date": "2025-07-31",
+    "portfolio_value": 1.3419702782183032,
+    "portfolio_return": -0.0387349449839034,
+    "btc_value": 1.9912890298918662,
+    "btc_return": -0.01771643220851693,
+    "equal_weight_value": 1.2578074120763967,
+    "equal_weight_return": -0.03863155926580544
+  },
+  {
+    "date": "2025-08-01",
+    "portfolio_value": 1.297890327071006,
+    "portfolio_return": -0.03284718884074007,
+    "btc_value": 1.9482539959395175,
+    "btc_return": -0.021611646178096855,
+    "equal_weight_value": 1.2165720832078502,
+    "equal_weight_return": -0.03278349966190361
+  },
+  {
+    "date": "2025-08-02",
+    "portfolio_value": 1.2672520705197758,
+    "portfolio_return": -0.02360619839148704,
+    "btc_value": 1.9359180705756849,
+    "btc_return": -0.0063317849672285265,
+    "equal_weight_value": 1.1885487931005707,
+    "equal_weight_return": -0.02303463189241348
+  },
+  {
+    "date": "2025-08-03",
+    "portfolio_value": 1.2950394061697472,
+    "portfolio_return": 0.021927236337893168,
+    "btc_value": 1.9552574149978652,
+    "btc_return": 0.009989753552137381,
+    "equal_weight_value": 1.2144063474248161,
+    "equal_weight_return": 0.021755568197407052
+  }
+]
