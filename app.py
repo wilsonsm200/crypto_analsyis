@@ -746,7 +746,7 @@ def main():
         
         st.markdown('<div class="sidebar-footer">', unsafe_allow_html=True)
         st.markdown("**📊 Crypto Portfolio Dashboard**")
-        st.markdown("*Built with Hub Agencies consultancy Murang'a, Kenya*")
+        st.markdown("*Built by Hub Agencies consultancy Murang'a, Kenya*")
         st.markdown('</div>', unsafe_allow_html=True)
     
     # Main content based on selected page
