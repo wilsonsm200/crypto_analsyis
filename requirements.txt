@@ -4,5 +4,5 @@ numpy
 plotly
 requests
 python-dotenv
-# Add any other libraries you use, e.g.
+google-generativeai
 altair
